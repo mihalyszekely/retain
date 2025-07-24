@@ -1,17 +1,20 @@
+import os
+os.environ['PYTENSOR_FLAGS'] = 'optimizer=None,linker=py'
+
 #################################################################
 # Code written by Edward Choi (mp2893@gatech.edu)
 # For bug report, please contact author using the email address
 #################################################################
 
-import sys, random
 import numpy as np
-import cPickle as pickle
+import pickle
 from collections import OrderedDict
 import argparse
 
-import theano
-import theano.tensor as T
-from theano import config
+import pytensor
+import pytensor.tensor as T
+from pytensor import config
+from pytensor.tensor import special
 
 def sigmoid(x):
   return 1. / (1. + np.exp(-x))
@@ -20,21 +23,24 @@ def numpy_floatX(data):
 	return np.asarray(data, dtype=config.floatX)
 
 def load_embedding(infile):
-	Wemb = np.array(pickle.load(open(infile, 'rb'))).astype(config.floatX)
+	with open(infile, 'rb') as f:
+		Wemb = np.array(pickle.load(f)).astype(config.floatX)
 	return Wemb
 
 def load_params(options):
 	params = OrderedDict()
 	weights = np.load(options['modelFile'])
-	for k,v in weights.iteritems():
+	for k,v in weights.items():
 		params[k] = v
-	if len(options['embFile']) > 0: params['W_emb'] = np.array(pickle.load(open(options['embFile'], 'rb'))).astype(config.floatX)
+	if len(options['embFile']) > 0: 
+		with open(options['embFile'], 'rb') as f:
+			params['W_emb'] = np.array(pickle.load(f)).astype(config.floatX)
 	return params
 
 def init_tparams(params, options):
 	tparams = OrderedDict()
-	for key, value in params.iteritems():
-		tparams[key] = theano.shared(value, name=key)
+	for key, value in params.items():
+		tparams[key] = pytensor.shared(value, name=key)
 	return tparams
 
 def _slice(_x, n, dim):
@@ -49,14 +55,14 @@ def gru_layer(tparams, emb, name, hiddenDimSize):
 
 	def stepFn(wx, h, U_gru):
 		uh = T.dot(h, U_gru)
-		r = T.nnet.sigmoid(_slice(wx, 0, hiddenDimSize) + _slice(uh, 0, hiddenDimSize))
-		z = T.nnet.sigmoid(_slice(wx, 1, hiddenDimSize) + _slice(uh, 1, hiddenDimSize))
+		r = T.sigmoid(_slice(wx, 0, hiddenDimSize) + _slice(uh, 0, hiddenDimSize))
+		z = T.sigmoid(_slice(wx, 1, hiddenDimSize) + _slice(uh, 1, hiddenDimSize))
 		h_tilde = T.tanh(_slice(wx, 2, hiddenDimSize) + r * _slice(uh, 2, hiddenDimSize))
 		h_new = z * h + ((1. - z) * h_tilde)
 		return h_new
 
 	Wx = T.dot(emb, tparams['W_gru_'+name]) + tparams['b_gru_'+name]
-	results, updates = theano.scan(fn=stepFn, sequences=[Wx], outputs_info=T.alloc(numpy_floatX(0.0), n_samples, hiddenDimSize), non_sequences=[tparams['U_gru_'+name]], name='gru_layer', n_steps=timesteps)
+	results, updates = pytensor.scan(fn=stepFn, sequences=[Wx], outputs_info=T.alloc(numpy_floatX(0.0), n_samples, hiddenDimSize), non_sequences=[tparams['U_gru_'+name]], name='gru_layer', n_steps=timesteps)
 
 	return results
 	
@@ -72,7 +78,7 @@ def build_model(tparams, options):
 
 	preAlpha = T.dot(reverse_h_a, tparams['w_alpha']) + tparams['b_alpha']
 	preAlpha = preAlpha.reshape((preAlpha.shape[0], preAlpha.shape[1]))
-	alpha = (T.nnet.softmax(preAlpha.T)).T
+	alpha = (special.softmax(preAlpha.T)).T
 
 	beta = T.tanh(T.dot(reverse_h_b, tparams['W_beta']) + tparams['b_beta'])
 	
@@ -107,10 +113,13 @@ def padMatrixWithoutTime(seqs, options):
 	return x, lengths
 
 def load_data_debug(seqFile, labelFile, timeFile=''):
-	sequences = np.array(pickle.load(open(seqFile, 'rb')))
-	labels = np.array(pickle.load(open(labelFile, 'rb')))
+	with open(seqFile, 'rb') as f:
+		sequences = np.array(pickle.load(f), dtype=object)
+	with open(labelFile, 'rb') as f:
+		labels = np.array(pickle.load(f), dtype=object)
 	if len(timeFile) > 0:
-		times = np.array(pickle.load(open(timeFile, 'rb')))
+		with open(timeFile, 'rb') as f:
+			times = np.array(pickle.load(f), dtype=object)
 
 	dataSize = len(labels)
 	np.random.seed(0)
@@ -164,11 +173,14 @@ def load_data_debug(seqFile, labelFile, timeFile=''):
 	return train_set, valid_set, test_set
 
 def load_data(dataFile, labelFile, timeFile):
-	test_set_x = np.array(pickle.load(open(dataFile, 'rb')))
-	test_set_y = np.array(pickle.load(open(labelFile, 'rb')))
+	with open(dataFile, 'rb') as f:
+		test_set_x = np.array(pickle.load(f), dtype=object)
+	with open(labelFile, 'rb') as f:
+		test_set_y = np.array(pickle.load(f), dtype=object)
 	test_set_t = None
 	if len(timeFile) > 0:
-		test_set_t = np.array(pickle.load(open(timeFile, 'rb')))
+		with open(timeFile, 'rb') as f:
+			test_set_t = np.array(pickle.load(f), dtype=object)
 
 	def len_argsort(seq):
 		return sorted(range(len(seq)), key=lambda x: len(seq[x]))
@@ -209,7 +221,7 @@ def train_RETAIN(
 	else: useFixedEmb = False
 	options['useFixedEmb'] = useFixedEmb
 	
-	print 'Loading the parameters ... ',
+	print('Loading the parameters ... ', end=' ')
 	params = load_params(options)
 	tparams = init_tparams(params, options)
 
@@ -217,22 +229,23 @@ def train_RETAIN(
 	options['betaHiddenDimSize'] = params['W_beta'].shape[0]
 	options['inputDimSize'] = params['W_emb'].shape[0]
 
-	print 'Building the model ... ',
+	print('Building the model ... ', end=' ')
 	x, alpha, beta =  build_model(tparams, options)
-	get_result = theano.function(inputs=[x], outputs=[alpha, beta], name='get_result')
+	get_result = pytensor.function(inputs=[x], outputs=[alpha, beta], name='get_result')
 
-	print 'Loading data ... ',
+	print('Loading data ... ', end=' ')
 	testSet = load_data(seqFile, labelFile, timeFile)
-	print 'done'
+	print('done')
 
-	types = pickle.load(open(typeFile, 'rb'))
-	rtypes = dict([(v,k) for k,v in types.iteritems()])
+	with open(typeFile, 'rb') as f:
+		types = pickle.load(f)
+	rtypes = dict([(v,k) for k,v in types.items()])
 
-	print 'Contribution calculation start!!'
+	print('Contribution calculation start!!')
 	count = 0
 	outfd = open(outFile, 'w')
 	for index in range(len(testSet[0])):
-		if count % 100 == 0: print 'processed %d patients' % count
+		if count % 100 == 0: print('processed %d patients' % count)
 		count += 1
 		batchX = [testSet[0][index]]
 		label = testSet[1][index]

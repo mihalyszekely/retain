@@ -1,0 +1,27 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+
+# Ignore data and output files
+*.npz
+*.csv
+*.log
+*.pkl
+*.pickle
+*.types
+*.seqs
+*.morts
+*.dates
+*.train
+*.valid
+*.test
+*.pids
+
+# Ignore requirements and python version files
+requirements.txt
+.python-version
+
+# Keep source code and documentation
+!*.py
+!README.md 
