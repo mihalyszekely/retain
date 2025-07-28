@@ -1,0 +1,73 @@
+T2DM Patient HbA1c Measurement Analysis Results
+============================================================
+Total T2DM patients: 44,005
+T2DM patients with HbA1c measurements: 27,428
+T2DM patients with ≥2 HbA1c measurements: 15,957
+Total HbA1c measurements among T2DM patients: 138,371
+Percentage of T2DM patients with HbA1c: 62.3%
+Percentage eligible for trend prediction: 36.3%
+
+Measurement Distribution:
+------------------------------
+1 measurement(s): 11,471 patients
+2 measurement(s): 4,052 patients
+3 measurement(s): 2,083 patients
+4 measurement(s): 1,420 patients
+5 measurement(s): 1,095 patients
+6 measurement(s): 821 patients
+7 measurement(s): 735 patients
+8 measurement(s): 564 patients
+9 measurement(s): 537 patients
+10 measurement(s): 486 patients
+11 measurement(s): 445 patients
+12 measurement(s): 410 patients
+13 measurement(s): 369 patients
+14 measurement(s): 305 patients
+15 measurement(s): 309 patients
+16 measurement(s): 276 patients
+17 measurement(s): 232 patients
+18 measurement(s): 229 patients
+19 measurement(s): 178 patients
+20 measurement(s): 160 patients
+21 measurement(s): 123 patients
+22 measurement(s): 131 patients
+23 measurement(s): 131 patients
+24 measurement(s): 121 patients
+25 measurement(s): 92 patients
+26 measurement(s): 77 patients
+27 measurement(s): 82 patients
+28 measurement(s): 78 patients
+29 measurement(s): 49 patients
+30 measurement(s): 58 patients
+31 measurement(s): 49 patients
+32 measurement(s): 38 patients
+33 measurement(s): 31 patients
+34 measurement(s): 32 patients
+35 measurement(s): 28 patients
+36 measurement(s): 23 patients
+37 measurement(s): 14 patients
+38 measurement(s): 10 patients
+39 measurement(s): 21 patients
+40 measurement(s): 9 patients
+41 measurement(s): 8 patients
+42 measurement(s): 8 patients
+43 measurement(s): 5 patients
+44 measurement(s): 4 patients
+45 measurement(s): 5 patients
+46 measurement(s): 2 patients
+47 measurement(s): 4 patients
+48 measurement(s): 4 patients
+49 measurement(s): 1 patients
+50 measurement(s): 2 patients
+51 measurement(s): 2 patients
+52 measurement(s): 1 patients
+53 measurement(s): 1 patients
+55 measurement(s): 2 patients
+62 measurement(s): 1 patients
+63 measurement(s): 1 patients
+64 measurement(s): 1 patients
+66 measurement(s): 1 patients
+88 measurement(s): 1 patients
+
+Eligible patients (≥2 measurements): 15,957
+Eligible patient IDs (first 10): [10000980, 10002013, 10002221, 10003299, 10006457, 10006508, 10006513, 10010278, 10011938, 10012438]

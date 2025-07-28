@@ -1,0 +1,7 @@
+Type 2 Diabetes Cohort Analysis Results
+==================================================
+Total unique patients with T2DM: 44,005
+Total unique hospitalizations with T2DM: 122,251
+Total T2DM diagnoses (ICD-9): 68,478
+Total T2DM diagnoses (ICD-10): 89,083
+Total T2DM diagnoses: 157,561
