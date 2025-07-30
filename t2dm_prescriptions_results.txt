@@ -1,0 +1,5006 @@
+Type 2 Diabetes Prescriptions Analysis Results
+============================================================
+Total T2DM patients: 44,005
+Total prescriptions processed: 20,292,611
+Prescriptions for T2DM patients: 7,689,806
+Unique medications prescribed: 4,994
+
+============================================================
+All Medications Prescribed to T2DM Patients:
+------------------------------------------------------------
+Count      Medication
+------------------------------------------------------------
+703569     insulin
+237472     0.9% sodium chloride
+236430     potassium chloride
+221948     sodium chloride 0.9%  flush
+204653     furosemide
+179365     acetaminophen
+140958     heparin
+138431     5% dextrose
+130908     magnesium sulfate
+128929     bag
+121284     metoprolol tartrate
+115426     senna
+114164     iso-osmotic dextrose
+111517     dextrose 50%
+104358     glucagon
+103365     docusate sodium
+95036      vancomycin
+93333      oxycodone (immediate release)
+93047      hydromorphone (dilaudid)
+84366      aspirin
+84025      sodium chloride 0.9%
+83290      warfarin
+78497      glucose gel
+71034      ondansetron
+68688      lactated ringers
+68132      bisacodyl
+64544      lorazepam
+58183      vial
+56382      atorvastatin
+53815      heparin sodium
+53258      pantoprazole
+53115      lisinopril
+52065      calcium gluconate
+47582      polyethylene glycol
+45852      hydralazine
+45670      morphine sulfate
+42448      gabapentin
+41804      omeprazole
+40318      amlodipine
+38685      prednisone
+38320      sw
+37117      metoprolol succinate xl
+36735      heparin flush (10 units/ml)
+36500      sterile water
+35429      0.9% sodium chloride (mini bag plus)
+35240      tacrolimus
+33176      albuterol 0.083% neb soln
+32703      potassium chloride replacement (critical care and oncology)
+32059      levothyroxine sodium
+29556      ns
+29419      torsemide
+28601      d5w
+27736      neutra-phos
+27534      trazodone
+27455      vitamin d
+27345      cefepime
+27299      acetaminophen iv
+26384      ceftriaxone
+26223      simvastatin
+25931      lactulose
+25320      clopidogrel
+24860      influenza vaccine quadrivalent
+24822      multivitamins
+24530      magnesium oxide
+23864      d5 1/2ns
+23310      heparin dwell (1000 units/ml)
+22711      calcium carbonate
+22689      carvedilol
+22539      diphenhydramine
+22177      albuterol inhaler
+21986      propofol
+21913      amiodarone
+21376      labetalol
+21321      fentanyl citrate
+20606      famotidine
+19703      sodium bicarbonate
+19368      cefazolin
+19111      piperacillin-tazobactam
+18939      iso-osmotic sodium chloride
+18919      lidocaine 5% patch
+18646      quetiapine fumarate
+18344      ranitidine
+18077      influenza virus vaccine
+18064      ciprofloxacin hcl
+17201      lidocaine 1%
+16828      losartan potassium
+16809      metformin (glucophage)
+16800      folic acid
+16330      levetiracetam
+16237      haloperidol
+16084      ipratropium bromide neb
+16079      spironolactone
+15995      tamsulosin
+15954      phenylephrine
+15473      isosorbide mononitrate (extended release)
+14845      ramelteon
+14451      metoclopramide
+14355      ferrous sulfate
+13804      allopurinol
+13688      epoetin alfa
+13620      diltiazem
+13552      dextrose 5%
+13459      aspirin ec
+13407      metronidazole (flagyl)
+13364      albumin 25% (12.5g / 50ml)
+13324      nitroglycerin
+13224      thiamine
+13178      soln
+13142      enoxaparin sodium
+13005      milk of magnesia
+12835      norepinephrine
+12734      ipratropium-albuterol neb
+12400      hydrochlorothiazide
+12332      azithromycin
+11955      insulin human regular
+11874      pneumococcal vac polyvalent
+11783      lr
+11777      metronidazole
+11773      prochlorperazine
+11731      simethicone
+11598      dexamethasone
+11551      levofloxacin
+11505      lidocaine 1% (for picc/midline insertions)
+11377      chlorhexidine gluconate 0.12% oral rinse
+10993      meropenem
+10627      atenolol
+10574      phytonadione
+10573      nitroglycerin sl
+10533      sevelamer carbonate
+10527      apixaban
+10460      tramadol
+10350      rosuvastatin calcium
+10327      methylprednisolone sodium succ
+10021      tramadol (ultram)
+9969       potassium phosphate
+9939       ketorolac
+9885       clonazepam
+9860       diazepam
+9750       fluticasone propionate nasal
+9598       sertraline
+9577       0.45% sodium chloride
+9574       pravastatin
+9535       neomycin-polymyxin-bacitracin
+9482       oxycodone-acetaminophen
+9407       pneumococcal 23-valent polysaccharide vaccine
+9382       potassium chloride (powder)
+9381       phosphorus
+9353       midazolam
+9344       aluminum-magnesium hydrox.-simethicone
+9242       potassium chl 20 meq / 1000 ml d5 1/2 ns
+9002       lidocaine jelly 2% (glydo)
+8837       mycophenolate mofetil
+8818       multivitamins w/minerals
+8720       syringe
+8694       cyanocobalamin
+8687       valsartan
+8672       midodrine
+8645       1/2 ns
+8541       fluconazole
+8420       alteplase (catheter clearance)
+8325       ibuprofen
+8207       zolpidem tartrate
+8165       ciprofloxacin iv
+8026       syringe (0.9% sodium chloride)
+7792       digoxin
+7717       metolazone
+7673       sodium phosphate
+7665       sulfameth/trimethoprim ss
+7632       citalopram
+7455       mirtazapine
+7355       isosorbide dinitrate
+7268       bumetanide
+7203       nephrocaps
+7163       sarna lotion
+7143       guaifenesin
+7122       fluticasone propionate 110mcg
+7083       acyclovir
+7067       docusate sodium (liquid)
+7054       loperamide
+6982       tiotropium bromide
+6902       olanzapine
+6869       fluticasone-salmeterol diskus (250/50)
+6861       oxycodone sr (oxycontin)
+6625       sulfameth/trimethoprim ds
+6622       calcitriol
+6566       sodium polystyrene sulfonate
+6530       olanzapine (disintegrating tablet)
+6466       lidocaine jelly 2% (urojet)
+6421       latanoprost 0.005% ophth. soln.
+6415       nicotine patch
+6281       pregabalin
+6224       benzonatate
+6193       diltiazem extended-release
+6154       hydromorphone
+6024       heparin flush (100 units/ml)
+6018       dexmedetomidine
+5978       miconazole powder 2%
+5952       glipizide
+5950       vancomycin oral liquid
+5934       fluoxetine
+5890       clonidine
+5871       finasteride
+5838       captopril
+5671       ceftazidime
+5571       ascorbic acid
+5474       methadone
+5467       nystatin oral suspension
+5430       albumin 5% (12.5g / 250ml)
+5376       valganciclovir
+5343       heparin (hemodialysis)
+5285       moviprep
+5254       ampicillin-sulbactam
+5253       lansoprazole oral disintegrating tab
+5215       enoxaparin (prophylaxis)
+5210       prismasate (b32 k2)
+5152       hydroxyzine
+5086       rifaximin
+4997       ferric gluconate
+4953       artificial tears
+4915       doxercalciferol
+4879       hydrocortisone na succ.
+4796       sodium chloride nasal
+4757       chlorothiazide sodium
+4643       glycopyrrolate
+4632       readi-cat 2 (barium sulfate 2% suspension)
+4617       sucralfate
+4616       acetylcysteine 20%
+4583       epoetin alfa-epbx (retacrit)
+4581       ondansetron odt
+4575       amoxicillin-clavulanic acid
+4533       insulin regular human (u-500)
+4509       duloxetine
+4398       vasopressin
+4393       dextrose 10% in water (d10w)
+4325       ipratropium bromide mdi
+4303       colchicine
+4257       sodium citrate 4%
+4230       d5ns
+4222       cyclobenzaprine
+4138       alprazolam
+4083       influenza vaccine high-dose quadrivalent
+4026       insulin (regular) for hyperkalemia
+3931       morphine sr (ms contin)
+3918       nifedipine cr
+3906       risperidone
+3887       potassium chloride replacement (oncology)
+3867       albumin 5% (25g / 500ml)
+3824       clindamycin
+3789       5% dextrose (excel bag)
+3763       calcium acetate
+3751       oxycodone-acetaminophen (5mg-325mg)
+3747       oxycodone liquid
+3666       venlafaxine xr
+3656       daptomycin
+3650       morphine sulfate ir
+3640       glyburide
+3618       cephalexin
+3610       doxycycline hyclate
+3570       fentanyl patch
+3555       linezolid
+3551       acetaminophen (liquid)
+3530       mupirocin ointment 2%
+3526       ursodiol
+3516       bupropion (sustained release)
+3504       paroxetine
+3435       ezetimibe
+3397       prismasate (b22 k4)
+3387       creon 12
+3387       nadolol
+3376       lamotrigine
+3334       atropine sulfate
+3316       octreotide acetate
+3267       rivaroxaban
+3243       albumin 25%
+3242       escitalopram oxalate
+3231       ns (mini bag plus)
+3213       amitriptyline
+3170       metformin xr (glucophage xr)
+3164       cyclosporine (neoral) modified
+3152       brimonidine tartrate 0.15% ophth.
+3142       epinephrine
+3119       cepacol (sore throat lozenge)
+3108       nicardipine iv
+3009       montelukast
+2992       heparin flush (1000 units/ml)
+2966       fish oil (omega 3)
+2953       loratadine
+2951       metoprolol
+2942       fluticasone-salmeterol diskus (500/50)
+2940       maalox/diphenhydramine/lidocaine
+2917       baclofen
+2896       guaifenesin-dextromethorphan
+2886       magnesium citrate
+2883       syringe (iso-osmotic dextrose)
+2881       bupivacaine 0.1%
+2849       doxazosin
+2841       pantoprazole sodium
+2839       fexofenadine
+2825       glipizide xl
+2783       d5lr
+2760       citalopram hydrobromide
+2729       cefpodoxime proxetil
+2714       albumin 5%
+2678       aripiprazole
+2669       tizanidine
+2568       d10w
+2559       scopolamine patch
+2518       donepezil
+2471       promethazine
+2424       guaifenesin er
+2408       insulin syringe u-500
+2366       cetirizine
+2361       oxybutynin
+2337       chloraseptic throat spray
+2329       topiramate (topamax)
+2320       divalproex (delayed release)
+2314       sodium chloride
+2245       acetaminophen-caff-butalbital
+2227       neostigmine
+2220       naloxone
+2192       enalapril maleate
+2184       dorzolamide 2%/timolol 0.5% ophth.
+2169       yellow cadd cassette
+2161       chlorthalidone
+2156       citrate dextrose 3% (acd-a) crrt
+2131       tb syringe
+2128       atovaquone suspension
+2115       cinacalcet
+2112       meperidine
+2102       timolol maleate 0.5%
+2063       insulin glargine  (cvicu protocol)
+2043       buspirone
+2037       potassium chl 20 meq / 1000 ml ns
+2032       dobutamine
+2016       cisatracurium besylate
+1989       propranolol
+1985       hydrocodone-acetaminophen
+1972       vitamin d3 (cholecalciferol)
+1926       nortriptyline
+1920       cepacol (menthol)
+1904       hydrocortisone
+1902       duloxetine dr
+1895       clozapine
+1874       tuberculin protein
+1843       0.83% sodium chloride
+1838       sodium chloride 3% (hypertonic)
+1834       prednisolone acetate 1% ophth. susp.
+1831       milrinone
+1830       verapamil sr
+1829       mouth care oral rinse
+1828       albuterol-ipratropium
+1815       anti-thymocyte globulin (rabbit)
+1806       micafungin
+1806       terazosin
+1804       fluticasone-salmeterol diskus (100/50)
+1799       fludrocortisone acetate
+1739       piperacillin-tazobactam na
+1725       fenofibrate
+1724       lacosamide
+1722       guaifenesin-codeine phosphate
+1693       artificial tear ointment
+1688       oxymetazoline
+1684       montelukast sodium
+1665       phenytoin sodium
+1636       meclizine
+1626       zinc sulfate
+1620       golytely
+1609       dopamine
+1596       desmopressin acetate
+1594       tacrolimus suspension
+1592       ampicillin sodium
+1590       carbidopa-levodopa (25-100)
+1587       lactulose enema
+1582       artificial tears preserv. free
+1567       nifedipine (extended release)
+1554       erythromycin 0.5% ophth oint
+1511       lidocaine viscous 2%
+1507       0.9 % sodium chloride
+1490       sirolimus
+1485       bupropion
+1472       mycophenolate sodium dr
+1461       0.9% sodium chloride (excel bag)
+1457       lamivudine
+1446       sodium chloride 3% inhalation soln
+1445       potassium citrate
+1440       azathioprine
+1433       potassium chl 40 meq / 1000 ml ns
+1430       oseltamivir
+1426       enoxaparin (treatment)
+1417       potassium chl 40 meq / 1000 ml d5 1/2 ns
+1411       mupirocin nasal ointment 2%
+1391       pramipexole
+1383       lidocaine 5% ointment
+1378       nystatin cream
+1375       phenazopyridine
+1374       fleet enema
+1370       heparin (crrt machine priming)
+1359       hydroxychloroquine sulfate
+1347       oxcarbazepine
+1332       alteplase
+1323       ropinirole
+1320       benztropine mesylate
+1306       gastroview (diatrizoate meglumine & sodium)
+1275       naproxen
+1270       ferrous gluconate
+1257       divalproex (extended release)
+1249       collagenase ointment
+1242       venlafaxine
+1236       methylnaltrexone
+1230       paricalcitol
+1225       diphenoxylate-atropine
+1220       acetazolamide sodium
+1210       phenytoin sodium extended
+1209       filgrastim
+1197       phenobarbital alcohol withdrawal dose taper (days 2-7)
+1192       valproic acid
+1189       nafcillin
+1177       argatroban
+1151       ticagrelor
+1151       fosphenytoin
+1137       dorzolamide 2% ophth. soln.
+1135       pioglitazone
+1133       alendronate sodium
+1130       nitrofurantoin monohyd (macrobid)
+1126       artificial tears gel 1%
+1121       leucovorin calcium
+1097       multivitamin iv
+1093       gammagard liquid
+1087       valproate sodium
+1085       gemfibrozil
+1085       vitamin b complex
+1076       chlorpromazine
+1076       0.9% nacl (excel/viaflo bag)
+1074       fleet enema (saline)
+1064       sotalol
+1062       bupropion xl (once daily)
+1058       dicyclomine
+1048       phenytoin
+1037       voriconazole
+1030       bacitracin ointment
+1030       ketamine
+1019       rocuronium
+1019       epoprostenol (veletri)
+1012       psyllium wafer
+1012       pyridoxine
+1012       cepastat (phenol) lozenge
+1008       verapamil
+1003       aztreonam
+1001       prazosin
+993        esmolol
+990        methylphenidate (ritalin)
+989        clotrimazole cream
+988        filgrastim-sndz
+988        lidocaine 2%
+969        triamcinolone acetonide 0.1% cream
+964        dabigatran etexilate
+961        hyoscyamine
+954        cosyntropin
+950        hydrocodone-acetaminophen (5mg-325mg)
+946        lidocaine
+942        hydroxyurea
+941        glimepiride
+935        aquaphor ointment
+932        isosorbide mononitrate
+924        insulin pump (self administering medication)
+922        iohexol 240 (omnipaque 240)
+913        hydrocerin
+909        cholestyramine
+908        methylprednisolone
+904        acetazolamide
+902        amoxicillin
+900        psyllium powder
+891        sildenafil
+889        valacyclovir
+882        pancrelipase 5000
+879        memantine
+867        cyclophosphamide
+865        sevelamer hydrochloride
+860        miconazole 2% cream
+856        phenobarbital
+846        dronabinol
+838        methimazole
+836        eptifibatide
+834        oxycodone-acetaminophen elixir
+826        vitamin e
+820        fleet enema (mineral oil)
+816        capsaicin 0.025%
+814        oxycodone--acetaminophen (5mg-325mg)
+813        sumatriptan succinate
+813        nicotine polacrilex
+813        lithium carbonate
+812        cilostazol
+802        sodium chloride 0.9%  flush for crrt
+800        morphine sulfate (oral soln.)
+798        emtricitabine-tenofovir (truvada)
+795        tolterodine
+793        sacubitril-valsartan (24mg-26mg)
+792        clobetasol propionate 0.05% ointment
+791        levalbuterol neb
+786        sodium thiosulfate
+781        erythromycin
+772        tobramycin sulfate
+771        gentamicin
+756        gentamicin sulfate
+751        acetaminophen w/codeine
+750        syringe (chemo)
+748        doxepin hcl
+738        carbamazepine
+734        syringe (sw)
+728        aluminum hydroxide suspension
+724        hydrocortisone (rectal) 2.5% cream
+722        potassium chl 20 meq / 1000 ml d5ns
+722        soln.
+721        quinapril
+718        methotrexate
+718        entecavir
+716        calcium chloride
+715        ropivacaine 0.2%
+715        mycophenolate mofetil suspension
+710        eplerenone
+707        sodium chloride 0.9%  (mini bag plus)
+706        d5w (excel bag)
+704        ketoconazole 2%
+700        phenytoin (suspension)
+697        ertapenem sodium
+697        psyllium
+694        diazepam - ciwa protocol
+694        budesonide
+691        clonidine patch 0.3 mg/24 hr
+687        felodipine
+684        ritonavir
+683        nitroglycerin ointment  2%
+672        lidocaine jelly 2%
+671        albuterol
+664        albuterol mdi
+654        triamcinolone acetonide 0.1% ointment
+653        etoposide
+651        methocarbamol
+646        ranolazine er
+644        sulfameth/trimethoprim suspension
+642        dextromethorphan-guaifenesin (sugar free)
+642        tenofovir disoproxil (viread)
+639        syringe (sterile water)
+637        clobetasol propionate 0.05% cream
+631        bivalirudin
+623        doxorubicin
+621        dipyridamole-aspirin
+618        blue cadd cassette
+616        codeine sulfate
+611        lanthanum
+600        febuxostat
+597        fluticasone-salmeterol (250/50)
+595        perphenazine
+595        niacin sr
+593        posaconazole delayed release tablet
+587        fosaprepitant
+585        caphosol
+581        rituximab
+578        phenytoin infatab
+576        clotrimazole
+575        calcitonin salmon
+571        nystatin
+569        dapsone
+566        remdesivir
+564        prasugrel
+564        epidural bag
+562        ranitidine (liquid)
+561        zonisamide
+559        isotonic sodium chloride
+555        quetiapine extended-release
+555        syringe (intraperitoneal)
+554        dofetilide
+553        ipratropium-albuterol inhalation spray
+553        raltegravir
+552        diclofenac topical gel 1%
+547        nitroprusside sodium
+547        transplant self medication program
+539        calcium gluconate sliding scale (critical care-ionized calcium)
+537        hydrocortisone cream 1%
+534        methylprednisolone na suc
+532        repaglinide
+527        ramipril
+526        clonidine patch 0.1 mg/24 hr
+525        levetiracetam oral solution
+524        amp
+524        modafinil
+523        ziprasidone hydrochloride
+523        nicotine lozenge
+518        bottle
+514        lidocaine 1%/epinephrine 1:100,000
+514        epinephrine (epipen)
+509        sevelamer
+508        anastrozole
+507        multivitamins w/minerals chewable
+506        lidocaine-prilocaine
+505        irbesartan
+504        temazepam
+500        morphine sulfate (concentrated oral soln)
+496        metoprolol xl (toprol xl)
+495        clonidine patch 0.2 mg/24 hr
+492        vincristine (oncovin)
+489        abacavir sulfate
+484        dolutegravir
+481        pyridostigmine bromide
+479        salmeterol xinafoate diskus (50 mcg)
+474        primidone
+473        cyclosporine (sandimmune)
+472        ns (0.9% nacl)
+471        timolol maleate 0.25%
+470        hydromorphone p.f.
+469        propranolol la
+468        flecainide acetate
+466        rifampin
+462        ciprofloxacin 0.3% ophth soln
+455        tricor
+453        minoxidil
+450        darunavir
+448        morphine sulfate (oral solution) 2 mg/ml
+445        succinylcholine
+444        clopidogrel bisulfate
+442        protamine sulfate
+442        mannitol 20 %
+440        hydrocodone-acetaminophen (5mg-500mg)
+438        nimodipine
+436        heparin flush (5000 units/ml)
+434        calcium replacement (oncology)
+433        racepinephrine
+433        dexamethasone sod phosphate
+431        mesalamine dr
+426        silver sulfadiazine 1% cream
+426        megestrol acetate
+426        vancomycin antibiotic lock
+423        hydromorphone-hp
+421        *nf* ertapenem sodium
+419        venetoclax
+415        aerogen syringe (sw)
+411        cytarabine
+406        triamterene-hydrochlorothiazide
+405        acetylcysteine (iv)
+398        sodium glycerophosphate
+394        oxazepam
+391        sacubitril-valsartan (49mg-51mg)
+387        nystatin ointment
+386        indomethacin
+383        nifedipine
+383        aminocaproic acid
+383        valganciclovir oral solution
+383        divalproex sod. sprinkles
+381        mexiletine
+379        potassium chl 40 meq / 1000 ml d5ns
+376        heparin flush picc (100 units/ml)
+375        heparin flush cvl  (100 units/ml)
+373        bengay cream
+372        sulfamethoxazole-trimethoprim
+371        mupirocin cream 2%
+367        tigecycline
+366        mineral oil
+361        vitamin a
+360        dexamethasone sod phos
+359        adenosine
+358        moexipril
+358        ethacrynic acid
+357        glycerin supps
+356        crrt
+355        minocycline
+355        miconazole nitrate vag cream 2%
+355        fondaparinux
+355        belladonna & opium (16.2/30mg)
+354        pantoprazole (granules for dr suspension)
+353        ferrous sulfate (liquid)
+353        isoniazid
+353        fluphenazine
+352        empagliflozin
+349        nitroglycerin patch
+348        imipenem-cilastatin
+348        xopenex neb
+348        atazanavir
+347        bismuth subsalicylate
+345        phenobarbital - icu alcohol withdrawal (initial load / rescue dose)
+344        carbamide peroxide 6.5%
+341        maalox/lidocaine
+341        ampicillin
+339        300 mcg vial
+337        vitamin b complex w/c
+337        mesalamine
+335        esomeprazole sodium
+335        amino acids 5%-dextrose 15%
+334        sulfasalazine_
+331        atropine sulfate ophth 1%
+331        hydrocortisone cream 2.5%
+329        ganciclovir
+329        aerogen syringe (ns)
+328        heparin (iabp)
+327        epinephrine 1:1000
+320        furosemide-heart failure
+320        fat emulsion 20%
+317        etomidate
+317        aspirin desensitization (angioedema)
+316        dakins 1/4 strength
+315        lidocaine 1%/epinephrine 1:100000
+312        fosfomycin tromethamine
+311        triamterene-hctz (37.5/25)
+311        mesna
+311        paliperidone er
+310        ambisome
+307        ns syringe (intrapleural)
+303        tuberculin ppd
+302        efavirenz
+295        amantadine
+293        ns (irrigation bottle)
+293        tranexamic acid
+292        risperidone (disintegrating tablet)
+291        oxycodone (concentrated oral soln)
+288        potassium chl 20 meq / 1000 ml d5lr
+286        enalaprilat
+284        morphine sulfate (concentrated oral solution) 20 mg/ml
+282        promethazine hcl
+282        lubiprostone
+280        vecuronium bromide
+279        clobazam
+278        sodium zirconium cyclosilicate
+277        methotrexate sodium p.f.
+273        5 syringes (ns)
+273        pentoxifylline
+272        clarithromycin
+272        nitrofurantoin (macrodantin)
+270        carboplatin
+269        pamidronate
+268        vancomycin enema
+267        lopinavir-ritonavir
+267        lovastatin
+265        hydrocortisone cream 0.5%
+264        aspirin desensitization (urticaria/angioedema)
+263        glycopyrrolate (cvicu reversal protocol)
+262        amikacin
+260        vancomycin – pharmacy to dose (id consult only)
+260        ceftaroline
+260        magnesium sulfate replacement (oncology)
+259        ranolazine
+258        mirapex
+256        neostigmine (cvicu reversal protocol)
+256        penicillin g potassium
+256        lidocaine 0.5%
+253        etravirine
+252        triamcinolone acetonide 0.025% cream
+250        niacinamide
+249        brimonidine tartrate 0.2% ophth.
+248        fluocinonide 0.05% cream
+248        lactic acid 12% lotion
+247        ketorolac 0.5% ophth soln
+247        bupivacaine 0.5%
+245        namenda
+244        phoxillum (b22 k4)
+244        humalog
+244        estrogens conjugated
+243        letrozole
+242        fluorouracil
+241        betamethasone dipro 0.05% oint
+239        betamethasone dipro 0.05% cream
+238        avapro
+236        ibuprofen suspension
+235        witch hazel 50% pad
+235        fluvoxamine maleate
+234        docusate
+234        desonide 0.05% cream
+234        ethacrynate sodium
+231        magnesium sulfate (latex free)
+231        myfortic
+230        ranexa
+228        tolvaptan
+227        dextromethorphan polistirex
+227        hydrocortisone acetate suppository
+227        leflunomide
+227        mannitol 20%
+226        gentamicin 0.1% cream
+223        dicloxacillin
+221        alteplase 1mg/1ml ( clearance ie. temp tlcl )
+220        dornase alfa
+220        clevidipine
+219        bethanechol
+218        0.9% sodium chloride p.f. (syringe)
+216        tucks hemorrhoidal oint 1%
+215        heparin (impella)
+213        chlorothiazide
+211        tetanus-diphtox-acellular pertuss (adacel)
+211        terbinafine 1% cream
+211        pilocarpine 4%
+208        atropine sulfate 1%
+207        vitamin d2 (ergocalciferol)
+207        posaconazole
+206        tamoxifen citrate
+204        click change <--- to choose a base solution
+204        lantus
+203        pentamidine-inhalation
+201        inv-thiamine
+200        dextrose 20% in water (d20w)
+199        hydromorphone (oral solution) 1 mg/1 ml
+197        theophylline sr
+197        niacin
+196        carbamazepine (extended-release)
+195        pseudoephedrine
+194        opium tincture
+192        lyrica
+192        neomycin sulfate
+192        cinacalcet hcl
+191        iron polysaccharides complex
+191        lidocaine 2% p.f.
+190        n-acetylcysteine
+190        buprenorphine-naloxone (8mg-2mg)
+189        calcipotriene 0.005% cream
+189        ribavirin
+188        ziprasidone
+187        januvia
+186        fondaparinux sodium
+185        bicitra
+185        bortezomib
+184        creon 10
+184        xopenex
+184        lumigan
+184        desmopressin nasal
+184        decitabine
+183        mucinex
+180        hydrocortisone na succ
+179        olmesartan
+178        paclitaxel (taxol)
+177        iohexol 240
+177        amiloride hcl
+177        emtricitabine-tenofovir alafen (200mg-25mg) *descovy*
+176        lurasidone
+174        hepatitis b vaccine
+174        quinidine gluconate e.r.
+173        trace elements
+173        thrombin
+173        valganciclovir suspension
+173        sulfameth/trimethoprim
+172        emtricitabine
+172        imipramine
+172        lithium carbonate sr (lithobid)
+171        buprenorphine-naloxone film (8mg-2mg)
+170        medroxyprogesterone acetate
+169        sacubitril-valsartan (97mg-103mg)
+166        cyclosporine 0.05% ophth emulsion
+165        amphetamine-dextroamphetamine
+164        methylphenidate
+163        fentanyl pca
+163        prenatal vitamins
+163        symbicort
+161        dibucaine
+161        calcium carbonate suspension
+161        glutamine
+160        carbidopa-levodopa (25-250)
+160        prednisolone acetate 0.12% ophth. susp.
+160        methadone (oral solution)  2 mg/1 ml
+159        diclofenac sodium dr
+159        naltrexone
+159        romiplostim
+158        multivitamins w/minerals liquid
+158        ciprofloxacin
+158        desipramine
+157        ivermectin
+157        potassium bicarbonate eff
+157        acarbose
+155        trandolapril
+155        amino acids 4.25%-dextrose 5%
+155        potassium chl 20 meq / 1000 ml d5w
+155        chlordiazepoxide hcl
+155        probenecid
+155        benazepril
+154        covid-19 vaccine (pfizer)
+154        benicar
+154        amiloride
+153        ruxolitinib
+153        methylene blue 1%
+153        amitriptyline hcl
+151        metronidazole topical 1 % gel
+151        basiliximab
+150        syringe (ns)
+150        hepatitis b vaccine (20 mcg/ml)
+150        opium tincture (morphine 10 mg/ml)
+150        bictegrav-emtricit-tenofov ala
+149        insulin reg human (novolin r)
+149        rosiglitazone maleate
+149        oseltamivir phosphate
+149        carbidopa-levodopa cr (50-200)
+148        hemorrhoidal suppository
+147        ketoconazole shampoo
+146        isavuconazonium sulfate
+146        haemophilus b conj. vaccine
+145        advair diskus
+143        hydrocodone-acetaminophen (5mg-500mg
+143        phenytoin sodium (iv)
+143        bacitracin/polymyxin b sulfate opht. oint
+143        amoxicillin-clavulanate susp.
+143        restasis
+143        caspofungin
+143        benzocaine-menthol (sore throat lozenge)
+142        dronedarone
+142        isosorbide
+142        tacrolimus extended release (envarsus xr)
+141        rasburicase
+141        iron dextran complex
+141        viokase-8
+140        inv-acetaminophen
+140        propoxyphene nap.-apap (n-100)
+139        tirofiban
+139        oxytocin
+139        gelclair
+139        prograf
+138        celecoxib
+137        colistin
+136        clindamycin 1% solution
+136        mesalamine (rectal)
+136        famotidine (iv)
+134        amino acids 4.25% w/ dextrose 5%
+134        ifosfamide
+134        everolimus
+134        oxaliplatin desensitization
+133        dextrose 5%  (*glass bottle*)
+133        lidocaine 0.5%/epinephrine
+132        hepatitis b immu glob (hepagam b)
+131        benzocaine 20% spray
+131        dapagliflozin
+130        0.9% sodium chl (yellow cadd)
+130        buprenorphine-naloxone tablet (8mg-2mg)
+130        tresiba flextouch u-100
+129        iron dextran (test dose)
+129        covid-19 vaccine (moderna)
+129        ns epidural bag
+128        fluocinonide 0.05% ointment
+128        fluticasone-salmeterol (100/50)
+128        lithium carbonate cr (eskalith)
+127        dipyridamole
+127        indapamide
+126        bismuth subsalicylate chewable
+126        acamprosate
+125        moxifloxacin
+125        divalproex sodium
+125        methylphenidate sr
+123        triamcinolone acetonide 0.025% ointment
+123        viaflex bag
+121        exemestane
+121        posaconazole suspension
+121        ampicillin desensitization
+121        aldesleukin
+120        meningococcal conj vaccine (menactra)
+120        bengay
+119        latuda
+118        penicillin v potassium
+118        insulin pump
+118        eltrombopag
+117        nexium
+116        aspirin (buffered)
+116        pioglitazone hcl
+116        pangestyme-ec
+116        potassium chl 40 meq / 1000 ml d5w
+116        methotrexate sodium
+115        cisplatin
+115        pletal
+114        adderall
+113        methylprednisolone sod succ
+112        silver nitrate applicator
+112        miconazole nitrate (combo pack)
+111        nabumetone
+111        buprenorphine-naloxone film (4mg-1mg)
+111        betaxolol ophth susp  0.25%
+109        dakins 1/2 strength
+109        verapamil hcl
+109        entacapone
+109        sodium fluoride 1.1% (dental gel)
+108        phenazopyridine hcl
+107        aspirin-caffeine-butalbital
+107        pilocarpine 1%
+107        estradiol
+106        nicardipine
+106        amphetamine-dextroamphetamine xr
+106        oxaliplatin
+105        propafenone hcl
+105        bisoprolol fumarate
+105        miralax
+105        peripheral nerve infusion bag
+104        plasma-lyte a (ph 7.4)
+104        adenosine liver flush
+104        paliperidone palmitate
+103        levemir
+103        ethanol 70% catheter dwell
+103        testosterone 5mg patch
+103        carbidopa-levodopa cr (25-100)
+102        nafcillin desensitization
+102        liothyronine sodium
+102        loxapine succinate
+101        lamivudine-zidovudine (combivir)
+100        nystatin-triamcinolone cream
+100        plasmalyte
+100        sodium acetate
+99         loperamide suspension
+98         gemcitabine
+98         tobramycin-dexamethasone ophth oint
+98         quinine sulfate
+98         dermoplast spray
+97         naphazoline-pheniramine ophth. solution
+97         amaryl
+95         lidocaine 1% p.f.
+95         dextromethorphan poly complex
+95         methylene blue
+95         travatan z
+95         arimidex
+95         meropenem desensitization
+94         ethambutol hcl
+94         guaifenesin-dextromethorphan (sugar free)
+94         methadone (concentrated oral solution) 10 mg/1 ml
+93         methazolamide
+93         23.4% sodium chloride
+93         isosorbide dinitrate er
+93         ceftolozane-tazobactam
+92         multiple vitamins liq.
+91         tetracycline
+91         fludarabine phosphate
+91         tobramycin-dexamethasone ophth susp
+91         clotrimazole 1% vaginal cream
+91         hepatitis a vaccine
+91         thyroid
+90         misoprostol
+89         celebrex
+89         buprenorphine-naloxone film (2mg-0.5mg)
+88         dextran 40 10% in ns
+88         orabase w/ benzocaine paste
+88         tobramycin inhalation soln
+88         triazolam
+88         ceftriaxone desensitization
+87         ibrutinib
+87         procainamide
+87         ceftazidime-avibactam (avycaz)
+87         fat emulsion 20% (intralipid)
+87         ascorbic acid (liquid)
+87         levocarnitine
+86         hydrocortisone oint 2.5%
+86         mercaptopurine
+85         dextroamphetamine
+85         bacitracin-polymyxin ointment
+85         fenofibrate micronized
+85         methyldopa
+84         pneumococcal 13-valent conjugate vaccine
+83         rilpivirine
+83         naloxone hcl
+83         tresiba flextouch u-200
+83         disopyramide cr
+81         tocilizumab
+81         glucose tab
+81         travoprost
+80         provigil
+80         ticlopidine hcl
+79         risperidone long acting injection
+79         salsalate
+79         albuterol sulfate
+79         syringe (lr)
+78         bacitracin ophthalmic oint
+78         kcentra*
+78         melphalan
+78         acetaminophen w/codeine elixir
+78         lamivudine oral soln.
+78         fluorometholone 0.1% ophth susp.
+78         treprostinil sodium
+77         vancomycin 25mg/ml ophth soln
+76         phenaseptic throat spray
+76         fentanyl
+76         epidural infusion bag in ns
+75         cyclopentolate 1%
+75         dexamethasone oral soln (0.1mg/1ml)
+74         disopyramide phosphate
+74         heparin flush port (10 units/ml)
+74         clobetasol propionate 0.05% soln
+74         fenofibrate nanocrystallized
+73         bicalutamide
+73         tizanidine hcl
+73         norepinephrine bitartrate
+73         cimetidine
+72         amino acids 4.25%-dextrose 10%
+72         inv-remdesivir
+72         papain 2.5 % solution
+71         ledipasvir/sofosbuvir
+71         pentobarbital sodium
+71         ns epidural bag (0.9% nacl)
+71         aprepitant
+70         magnesium sulfate (ob)
+70         milrinone lactate
+70         cromolyn sodium (nasal inhalation)
+68         d5w (glass bottle)
+68         azopt
+67         esomeprazole magnesium
+67         ketoconazole
+67         riboflavin (vitamin b-2)
+67         acyclovir ointment 5%
+67         fidaxomicin
+66         rivastigmine
+66         sitagliptin
+66         hydrocortisone acetate ointment 1%
+66         heparin (via anti-xa monitoring)
+66         levobunolol 0.5%
+66         imatinib mesylate
+66         trihexyphenidyl
+66         carbidopa-levodopa (25-100) odt
+65         norepinephrine (in ns)
+65         flumazenil
+65         bimatoprost
+65         lidocaine 2%/epi 1:100,000
+64         cefepime desensitization
+64         vigamox
+64         betamethasone dipro 0.05% augmented gel
+64         papain-urea ointment
+63         galantamine
+63         byetta
+63         haloperidol decanoate (long acting)
+63         peginterferon alfa-2a
+63         factor 7a recombinant
+62         covid-19 vaccine per pharmacy
+62         ropinirole hcl
+62         cyclosporine
+62         brivaracetam
+62         tobramycin fortified ophth. soln.
+61         beclomethasone dipropionate
+61         ofloxacin
+61         pancrease mt 16
+61         betamethasone valerate 0.1% cream
+60         ns (syringe)
+60         dexamethasone ophthalmic susp 0.1%
+60         hespan
+60         busulfan
+60         zidovudine
+60         talc (sterile)
+60         daunorubicin
+60         nevirapine
+58         neomycin/polymyxin b sulfate
+58         erythromycin ethylsuccinate suspension
+58         fluocinolone acetonide 0.01% solution
+58         nateglinide
+57         brimonidine
+57         combigan
+57         neomycin-polymyxin-hc otic susp
+57         alteplase 1mg/flush volume ( dialysis/pheresis catheters )
+57         trifluoperazine hcl
+56         insulin glargine
+56         bupivacaine 0.05%
+56         morphine
+56         epoprostenol
+56         cabergoline
+56         famciclovir
+55         levetiracetam - stat dose
+55         qvar
+55         propofol 1000mg/100ml 100ml vial
+55         blinatumomab
+54         tranexamic acid oral solution
+54         genvoya
+54         inv-ascorbic acid
+54         clomipramine
+54         pilocarpine 2%
+54         testosterone cypionate
+54         aliskiren
+54         sterile diluent for flolan
+53         cobicistat
+53         polymyxin b -trimethoprim ophth soln
+53         alprostadil
+53         infliximab
+53         divalproex sodium er
+53         cidofovir
+53         alemtuzumab
+52         zoledronic acid
+52         gentamicin 0.3% ophth. soln
+52         novolog
+52         stavudine
+52         sulfasalazine dr
+52         haloperidol decanoate
+51         heparin flush crrt (5000 units/ml)
+51         adderall xr
+51         bupivacaine 0.25%
+51         albuterol 0.5%
+51         theophylline er
+51         ns (glass bottle)
+51         maraviroc
+51         mycophenolate sodium
+50         phenylephrine 2.5 % ophth soln
+50         volumen (barium sulfate 0.1% suspension)
+50         nifedipine (immediate release)
+50         fluphenazine decanoate
+50         ferric citrate
+50         creon
+50         carisoprodol
+49         cyproheptadine
+49         pyrazinamide
+49         androgel
+49         mannitol
+49         valtrex
+49         desitin
+49         insulin detemir
+49         thiothixene
+48         dexamethasone ophthalmic soln 0.1%
+48         lamictal xr
+48         tetanus-diphtox-acellular pertuss (tdap)
+48         enoxaparin
+48         angiotensin ii
+48         colesevelam
+48         hydrocortisone enema
+48         syringe (pca)
+48         propranolol hcl
+47         sucralfate enema
+47         evista
+47         inv-deferoxamine
+47         chlorpheniramine-hydrocodone
+47         albumin, human
+47         welchol
+47         brinzolamide
+47         flucytosine
+47         levalbuterol hcl
+47         tretinoin (atra-all transretinoic acid)
+47         amoxicillin-clavulanate desensitization
+46         selegiline hcl
+46         ziprasidone mesylate
+46         albumin
+46         rivastigmine tartrate
+46         ceftriaxone graded challenge
+46         hyoscyamine so4 (time release)
+46         sofosbuvir
+46         apraclonidine 0.5%
+46         inv-hydrocortisone
+46         levemir flexpen
+46         carbamazepine chewable tabs
+46         sildenafil citrate
+46         methylprednisolone acetate
+46         trace elements (tralement)
+46         propylthiouracil
+46         anoro ellipta
+45         risperidone oral solution
+45         inv-dexmedetomidine
+45         foscarnet sodium
+45         tretinoin (atra, all-transretinoic acid)
+45         entecavir oral solution
+45         hydrocortisone val. cream 0.2%
+45         mesalamine enema
+45         ponatinib
+44         fluocinolone acetonide 0.025% cream
+44         zenpep
+44         hydrocortisone oint 1%
+44         tetracycline hcl
+44         zafirlukast
+44         hydrocortisone acetate 10%  foam
+43         parcopa
+43         isosorbide dinitrate sa
+43         buprenorphine-naloxone tablet (2mg-0.5mg)
+43         tobramycin - dosing by pharmacy
+43         dasatinib
+43         rytary
+42         dimenhydrinate
+42         6 syringes (ns)
+42         heparin (1000 units / 500 ml)
+42         irinotecan
+42         aspirin desensitization (aerd)
+42         levetiracetam solution
+42         letermovir
+41         nystatin-triamcinolone ointment
+41         carbidopa-levodopa (10-100)
+41         albumin 5
+41         rituximab-abbs (truxima)
+41         hydroxychloroquine
+41         carbamazepine xr
+41         exelon
+41         liposomal doxorubicin (doxil)
+40         testosterone gel 1%
+40         medium chain triglycerides
+40         fluocinolone acetonide 0.01% cream
+40         dextran 40 10% in d5w
+40         buprenorphine
+40         fosinopril
+40         ambrisentan
+40         asenapine
+40         envarsus xr
+39         chlorpheniramine maleate
+39         ketamine (for intubation)
+39         proair hfa
+39         tropicamide 1 %
+39         leuprolide acetate
+39         selenium sulfide
+39         fosamprenavir
+39         methadone inj
+39         acetazolamide s.r.
+39         chlordiazepoxide
+38         phenylephrine  0.5% nasal spray
+38         pindolol
+38         palonosetron
+38         tobramycin 0.3% ophth soln
+38         stribild
+38         emla cream
+38         morphine infusion – comfort care guidelines
+38         codeine phosphate
+38         0.82% sodium chloride
+38         amphotericin b
+38         heparin desensitization
+38         nebivolol
+38         betamethasone na. phos/acet
+38         avodart
+38         rituximab desensitization
+37         econazole
+37         sodium fluoride (dental gel)
+37         multi
+37         droperidol
+37         lenalidomide
+37         inv-sarilumab
+37         0.75% sodium chloride
+37         gammagard s/d
+37         anakinra
+37         victoza 2-pak
+37         azelastine
+36         testosterone 2.5mg patch
+36         liraglutide
+36         raloxifene
+36         pyridoxine hcl
+36         humulin n
+36         copper chloride
+36         idarubicin
+36         alum potassium
+36         danazol
+36         donnatol
+36         bumetanide desensitization
+35         gamunex/gammaked 10%
+35         sorbitol
+35         melatonin
+35         nesiritide
+35         smoflipid 20% emulsion
+35         dextran 40 10%
+35         isoproterenol
+35         ammonium lactate
+35         betamethasone dipro 0.05% lot.
+35         pancrelipase 4500
+35         phenelzine sulfate
+35         interferon alfacon-1
+35         penicillin g k desensitization
+34         domeboro
+34         fleet phospho-soda
+34         enzalutamide
+34         triamterene
+34         bromocriptine mesylate
+34         permethrin
+34         amikacin inhalation
+34         amantadine syrup
+34         rifabutin
+33         albuterol sulfate (extended release)
+33         trimethoprim
+33         pyridostigmine bromide syrup
+33         nirmatrelvir-ritonavir (eua)
+33         carbamazepine suspension
+33         trihexyphenidyl hcl
+33         pilocarpine hcl
+33         inv-terlipressin
+33         filgrastim (neupogen)
+33         sterile diluent for remodulin
+32         metronidazole gel 0.75%-vaginal
+32         niaspan
+32         heparin intraperitoneal
+32         benzoyl peroxide gel 10%
+32         hydrocortisone na succinate
+32         sodium bicarbonate 8.4%
+32         clobetasol propionate 0.05% gel
+32         zosyn desensitization
+31         vesicare
+31         keppra xr
+31         meningococcal conj vaccine (menactra,menveo)
+31         cefepime graded challenge
+31         gentamicin - dosing by pharmacy
+31         heparin crrt
+31         colestipol
+31         acebutolol
+31         balsalazide
+31         mitoxantrone
+31         bactrim desensitization
+31         dextrose 50% in water (d50w)
+30         vitamin d3
+30         fomepizole
+30         sodium citrate
+30         povidone iodine 1/4 strength
+30         zofran odt
+30         piroxicam
+30         baricitinib (eua)
+29         atacand
+29         prednisolone
+29         candesartan
+29         rasagiline
+29         scopolamine 0.25% ophth soln
+29         magnesium sulfate replacement (critical care and oncology)
+29         caffeine-sodium benzoate
+29         inv-bupivacaine 0.25%
+29         trelegy ellipta
+29         insulin lispro
+29         lantus u-100 insulin
+29         paclitaxel desensitization
+29         urea
+29         carboplatin desensitization
+28         meropenem graded challenge
+28         lidocaine 4%
+28         covid-19 vaccine 1st dose by pharmacy
+28         hepatitis b vaccine (engerix-b 20 mcg/ml)
+28         nitroglycerin ointment 0.2%
+28         travatan
+28         clonidine tts 1 patch
+28         skelaxin
+28         metaxalone
+27         ferumoxytol
+27         bendamustine
+27         docetaxel (taxotere)
+27         acetylcysteine inhaled – for interventional pulmonary use only
+27         zyrtec
+27         syringe (pd)
+27         theophylline (oral solution)
+27         soma
+27         bacitracin
+27         sulindac
+27         sodium bicarb
+27         testosterone 4 mg patch
+27         dacarbazine
+27         acetic acid 0.25% irrig. soln
+27         trulicity
+27         *nf* imatinib mesylate
+27         epinephrine 1 mg/1 ml
+27         itraconazole
+27         toujeo solostar u-300 insulin
+26         d5 1/4ns
+26         jardiance
+26         trifluridine 1% ophth soln.
+26         metformin
+26         lithium oral solution
+26         tetanus-diphtheria tox (decavac)
+26         docusate sodiu
+26         janumet
+26         levobunolol 0.25%
+26         budesonide-formoterol
+26         femara
+26         glyburide/metformin (5mg-500mg)
+26         arsenic trioxide
+26         sugammadex
+26         cangrelor
+26         pristiq
+26         prazosin hcl
+26         ceftaroline desensitization
+26         nilotinib
+26         anagrelide
+25         acebutolol hcl
+25         claritin
+25         phenobarbital - icu alcohol withdrawal (loading dose 2 and 3)
+25         fluocinolone acetonide 0.025% ointment
+25         tacrolimus (self med)
+25         osimertinib
+25         lotemax
+25         blistex lip ointment
+25         dihydroergotamine mesylate
+25         nefazodone hcl
+25         macitentan
+24         incruse ellipta
+24         alvimopan
+24         sorafenib
+24         norethindrone-estradiol
+24         becaplermin gel 0.01%
+24         linzess
+24         0.54% sodium chloride
+24         moxifloxacin 0.5% ophth (*nf*)
+24         clorazepate dipotassium
+24         hydrochloric acid
+24         novolog u-100 insulin aspart
+24         syringe (intrapleural)
+24         humalog mix 75-25
+24         gamunex
+24         humalog kwikpen
+24         simbrinza
+23         cellcept
+23         belatacept
+23         carbidopa
+23         diclofenac sodium
+23         phenobarbital - icu alcohol withdrawal (loading dose 1)
+23         acetylcysteine inhaled - for interventional pulmonary use only
+23         hepatitis b immun globulin (hepagam b)
+23         bystolic
+23         insulin degludec
+23         desvenlafaxine
+23         domperidone
+23         tretinoin 0.025% cream
+23         midostaurin
+23         donnatal
+23         capecitabine
+23         isradipine
+22         levothyroxine
+22         pulmicort
+22         actonel
+22         triamcinolone acetonide
+22         acetylcysteine
+22         buprenorphine-naloxone (2mg-0.5mg)
+22         clopidogrel desensitization
+22         albendazole
+22         phenoxybenzamine hcl
+22         heparin flush midline (100 units/ml)
+22         amoxicillin oral susp.
+22         measles, mumps & rubella vac
+22         novolog flexpen
+22         xopenex hfa
+22         jakafi
+22         pseudoephedrine hcl
+22         clonidine tts 2 patch
+22         lepirudin
+22         divalproex
+22         desmopressin acetate 0.01% nasal spray
+22         toujeo max u-300 solostar
+22         tegretol xr
+21         hydrocortisone oint 0.5%
+21         oxycodone
+21         meningococcal group b vaccine (trumenba)
+21         prednisolone oral solution
+21         clofarabine
+21         acular
+21         debrox 6.5%
+21         docusat
+21         aromasin
+21         requip xl
+21         ticlopidine
+21         phentolamine mesylate
+21         aminocaproic acid 25 % oral rinse
+21         prednisolone acetate
+21         desvenlafaxine succinate
+21         treprostinil diolamine
+21         rufinamide
+21         betamethasone sodium phos/acet
+21         carteolol 1% ophth soln
+21         anti-inhibit coag comp (feiba)
+21         cefazolin desensitization
+21         epoprostenol na
+20         triamcinolone acetonide inj
+20         neurontin
+20         trospium
+20         norepinephri 8mg/250ml 250ml bag
+20         butalbital-acetaminophen-caff
+20         aciphex
+20         coenzyme q10
+20         viokase 8
+20         levoxyl
+20         victoza 3-pak
+20         azathioprine sodium
+20         nefazodone
+20         novolog flexpen u-100 insulin
+20         dabrafenib
+19         methylene blue 0.5%
+19         lacosamide - stat dose
+19         mupirocin
+19         abiraterone
+19         covid-19 vaccine (janssen)
+19         umeclidinium
+19         indomethacin xr
+19         edoxaban
+19         clonidine 7-day patch 0.1 mg/24 hr
+19         polymyxin b sulfate
+19         fluticasone-salmeterol
+19         pulmicort flexhaler
+19         syringe (intrathecal)
+19         etanercept
+19         vasopressin (for dilution)
+19         insulin (regular)
+19         vinblastine (velban)
+19         cefoxitin
+19         alfuzosin
+19         lorazepam 2mg/1ml 1ml syr
+19         0.45 % sodium chloride
+19         syringe (inhalation)
+19         suvorexant
+19         humulin r u-500 (conc) kwikpen
+19         factor 8 recombinant
+19         inv-enoxaparin
+19         primaquine phosphate
+19         tasigna
+19         zegerid
+18         keppra
+18         click change to choose a base solution
+18         digoxin immune fab
+18         sodium bic
+18         epinephrine (for dilution)
+18         emtricitabine/tenofovir disoproxil (truvada)
+18         provera
+18         lithium
+18         arava
+18         vortioxetine
+18         charcoal aqueous (activated)
+18         glyburide/metformin (2.5mg-500mg)
+18         inv-go-203-2c
+18         adefovir
+17         riluzole
+17         phenylephrine (quva)
+17         terlipressin
+17         copaxone
+17         insulin aspart *nf*
+17         activated charcoal-sorbitol
+17         sulfacetamide 10% ophth soln.
+17         vemlidy
+17         tranylcypromine sulfate
+17         d5w (excel)
+17         carmustine
+17         pulmozyme
+17         lotensin
+17         prismasol bgk2/0
+17         quinidine sulfate
+17         profend
+17         clonidine tts 3 patch
+17         trastuzumab
+17         cadd cassette
+17         cromolyn
+17         cyclosporine modified
+17         vial (sterile water)
+17         penicillin g benzathine
+17         insulin (regular) intraperitoneal
+17         acalabrutinib *nf*
+16         tetrabenazine
+16         lunesta
+16         clonidine 7-day patch 0.3 mg/24 hr
+16         sargramostim
+16         synthroid
+16         magnesium sulf 2gm/50ml 50ml bag
+16         bevacizumab (avastin)
+16         fiasp flextouch u-100 insulin
+16         selegiline
+16         mesalamine cr
+16         piperacillin-tazo graded challenge
+16         vinorelbine (navelbine)
+16         insulin aspart *nf* (for insulin pump)
+16         vincristine
+16         povidone iodine 1/2 strength
+16         mycophenolate
+16         rhopressa
+16         astelin
+16         ampicillin-sulbact graded challenge
+16         promacta
+16         mometasone
+16         diazoxide
+16         peramivir
+16         tretinoin suspension
+16         indinavir sulfate
+15         abacavir oral solution
+15         l-carnitine
+15         preservision areds-2
+15         inv-hydroxychloroquine
+15         sotrovimab (eua)
+15         risedronate
+15         linaclotide
+15         brexpiprazole
+15         bromfenac
+15         neomycin/polymyxin/dexameth ophth susp.
+15         carbidopa-levodopa
+15         dutasteride
+15         phenylephrine (for dilution)
+15         peridex
+15         doravirine
+15         clindamycin phosphate
+15         pomalidomide
+15         neomycin-polymyxin-dexameth ophth. oint
+15         chantix
+15         dantrolene
+15         vilazodone
+15         apriso
+15         atgam
+15         apidra solostar u-100 insulin
+15         cortef
+15         gastrocrom
+14         drotrecogin alfa (xigris)
+14         zytiga
+14         augmentin suspension
+14         alphagan p
+14         sodium bica
+14         dexilant
+14         arformoterol
+14         disulfiram
+14         sodium bicarbonat 50meq/50ml syr
+14         abciximab
+14         betamethasone valerate 0.1% ointment
+14         sterile water for irrigation
+14         lansoprazole
+14         potassium iodide
+14         tobramycin 0.3% ophth ointment
+14         tetracaine 0.5% ophth soln
+14         sinemet
+14         terconazole 80mg vag. supp
+14         methenamine hippurate
+14         revlimid
+14         umeclidinium-vilanterol
+14         tacrolimus (extended release)
+14         hydromorphone (rectal)
+14         colestid
+14         ipratropium bromide
+14         esomeprazole
+14         droxidopa
+14         zinc oxide
+14         asparaginase
+14         novolog mix 70-30 flexpen
+14         comtan
+14         famotidine (po)
+14         tofacitinib
+14         mbl-hcv1
+14         inv-ganaxolone
+13         cladribine
+13         imatinib
+13         nitroglycerin sr
+13         tropicamide 0.5% ophth soln
+13         voltaren
+13         glyburide prestab
+13         aveeno bath
+13         roflumilast
+13         invokana
+13         hepatitis b immune globulin (nabi-hb)
+13         triamterene-hydrochlorothiazide (37.5/25)
+13         niaspan extended-release
+13         timolol
+13         valproic acid (as sodium salt)
+13         ondans
+13         elmiron
+13         emtricitabine oral solution
+13         carafate
+13         dulera
+13         glycolax
+13         meloxicam
+13         liothyronine
+13         clofazimine
+13         tradjenta
+13         esmolol in saline (iso-osm)
+13         theophylline
+13         methadone pca
+13         propafenone (immediate release)
+13         trametinib
+13         azacitidine (iv)
+13         furosemide desensitization
+13         acalabrutinib
+13         ciprofloxacin oral desensitization
+12         fycompa
+12         paxil cr
+12         odefsey
+12         breo ellipta
+12         d20w
+12         clonidine 7-day patch 0.2 mg/24 hr
+12         neupro
+12         guanfacine
+12         naloxone nasal spray
+12         patanol
+12         humulin 70/30
+12         humulin n nph u-100 insulin
+12         atomoxetine
+12         clindamycin solution
+12         preservision areds
+12         norethindrone acetate
+12         spiriva respimat
+12         oxybutynin chloride
+12         flovent hfa
+12         bupivacaine
+12         *nf* ceftaroline
+12         *nf* capecitabine
+12         accolate
+12         plerixafor
+12         perampanel
+12         xeljanz
+12         vancocin
+12         novolin r
+12         hydroxyurea suspension
+12         progesterone micronized
+11         vancomycin desensitization
+11         orthopedic solution
+11         *nf* temozolomide
+11         protopic
+11         inv-ceftriaxone
+11         botox
+11         inv-convalescent plasma
+11         lantus solostar
+11         ritonavir (oral solution)
+11         testosterone 2 mg patch
+11         muro 128
+11         salicylic acid-sulfur
+11         theophylline er (uniphyl)
+11         sodium tetradecyl sulfate 3%
+11         solution
+11         syringe (intraventricular)
+11         albumi
+11         emtricitabine-tenofovir alafen (descovy)
+11         azilect
+11         isosorbid
+11         methylprednisolone na succ
+11         tretinoin 0.05% cream
+11         axitinib
+11         tetanus-diphtheria tox (tenivac)
+11         fluticasone
+11         coal tar 3% shampoo
+11         ondan
+11         lorazepam 2mg syringe
+11         heparin flush hickman (100 units/ml)
+11         zanamivir
+11         linagliptin
+11         fulvestrant
+11         sunitinib
+11         tyvaso
+11         zaditor
+11         docusa
+11         pentostatin
+11         forteo
+11         temozolomide
+11         carboprost tromethamine
+11         terbutaline sulfate
+10         coq10 (300mg)
+10         rotigotine
+10         erlotinib
+10         dorzolamide-timolol
+10         ampicillin graded challenge
+10         andexxa
+10         lorazepam oral solution
+10         probiotic
+10         propoxyphene
+10         lactaid
+10         apidra solostar
+10         insulin human nph
+10         benz
+10         sodium chloride 0.9 %
+10         acyclovir sodium
+10         bleomycin
+10         tadalafil
+10         phenylephrine (for 50mg/5ml vial
+10         amlactin
+10         lopinavir-ritonavir (oral soln)
+10         diltiaz
+10         diphenhydramine hcl
+10         mbl
+10         norethindrone (contraceptive)
+10         gleevec
+10         labetalol 100mg/20ml 20ml vial
+10         paclitaxel-protein bound (abraxane)
+10         losartan
+10         aripiprazole extended release
+10         acd-a for crrt
+10         epipen
+10         humulin r
+10         0.9% sodium chloride (syringe)
+10         hydroxocobalamin
+10         acetic acid 2% otic solution
+10         gamunex/gammaked
+10         calcium chloride (bristojet)
+10         harvoni
+10         chloroquine
+10         humalog insulin
+10         telaprevir
+10         humulin-r insulin (u-500)
+10         cephalexin desensitization
+10         trimethobenzamide
+10         epclusa
+10         factor 9 recombinant
+10         tapentadol
+9          dilantin extended
+9          amikacin - dosing by pharmacy
+9          ketorolac tromethamine
+9          xibrom
+9          olopatadine
+9          valganciclo
+9          daliresp
+9          hepsera
+9          ioversol (optiray 320)
+9          metoprolol tart 5mg/5ml 5ml vial
+9          timolol maleate
+9          levemir flextouch
+9          povidone iodine 10%
+9          brentuximab vedotin
+9          latanoprost
+9          terconazole 0.4% vag. cream
+9          *nf* sorafenib
+9          loteprednol etabonate
+9          cevimeline
+9          covid-19 vaccine
+9          glatiramer
+9          midazolam 2mg/2ml 2ml vial
+9          testosterone
+9          lescol
+9          combivent respimat
+9          estradiol transdermal patch
+9          aranesp (polysorbate)
+9          epsom salt
+9          morphine sulfate (syringe)
+9          sodium
+9          mycophenolate mofetil (self med)
+9          casirivimab-imdevimab (eua)
+9          tromethamine
+9          bactrim
+9          humira
+9          valganciclovi
+9          tobramycin
+9          bisacodyl (rectal)
+9          gemtuzumab ozogamicin
+9          symlinpen 120
+9          tiagabine
+9          ozempic
+9          patiromer calcium sorbitex
+9          dalbavancin
+9          ivosidenib *nf*
+9          trintellix
+9          bupro
+9          ergocalciferol (vitamin d2)
+9          silodosin
+9          levalbuterol tartrate
+9          potassium acetate
+9          humalog kwikpen insulin
+8          apremilast
+8          furosemide 20mg/2ml 2ml vial
+8          neutr
+8          rexulti
+8          brovana
+8          pirfenidone
+8          brinzolamide 1% ophth (*nf* )
+8          renagel
+8          lac-hydrin
+8          cetuximab
+8          stalevo 150
+8          verapa
+8          enablex
+8          albumin 25% (25g /100ml)
+8          symlinpen 60
+8          novolog mix 70-30flexpen u-100
+8          ns (excel)
+8          pyrimethamine
+8          carbidopa-levodopa (25-250) odt
+8          byetta (exenatide)
+8          veltassa
+8          ibutilide fumarate
+8          atripla
+8          ceftazidime graded challenge
+8          albuter
+8          fentanyl 2.5mg 50ml bag
+8          proparacaine hcl 0.5% opth.
+8          carfilzomib
+8          systane ultra
+8          cilos
+8          pemetrexed
+8          chlorhexidine gluconate
+8          nasonex
+8          advair hfa
+8          talc
+8          multivitamin
+8          dorzolamide
+8          chloramphenicol na succ
+8          cefadroxil
+8          isordil
+8          tolcapone
+8          cortrosyn
+8          tenofovir alafenamide
+8          myrbetriq
+8          verapam
+8          pegaspargase
+8          hyaluronidase
+8          inv-bortezomib
+8          spiriva with handihaler
+8          ketotifen fumarate
+8          anzemet
+8          terbinafine
+8          docusate sodi
+8          cycloserine
+8          vemurafenib
+8          selexipag
+8          xalatan
+8          viokace
+8          *nf* warfarin
+8          inv-alks 4230
+8          morphine sulfate for inhalation
+8          acitretin
+8          terbinafine hcl
+8          brimonidine-timolol
+8          enbrel
+8          trileptal
+8          netarsudil
+8          pilocarpine 0.5%
+8          vivelle-dot
+8          symlin
+8          microgestin 1/20 (21)
+8          magnesium chloride
+8          inv-abt-199
+7          levothy
+7          acetaminophen (rectal)
+7          pentamidine isethionate
+7          northera
+7          diltia
+7          acular ls
+7          zymar
+7          rimantadine
+7          fentanyl 100mcg/2ml 2ml amp
+7          5% dextrose (non dehp)
+7          insulin aspart
+7          lumigan (bimatoprost)
+7          darbepoetin alfa in polysorbat
+7          humalog mix 50-50 kwikpen
+7          naphazoline 0.1% ophth
+7          excedrin migraine
+7          morphine sulfat
+7          buprop
+7          1/4 ns
+7          valganciclov
+7          influenza virus vaccine *latex free*
+7          alcohol dehydrated
+7          ethyl chloride 100% spray
+7          cromolyn sodium
+7          fluphenazine hydrochloride
+7          concerta
+7          prolensa
+7          varicella virus vaccine
+7          gentamicin 0.3% ophth. ointment
+7          bupivacaine 0.125%  (on-q pump)
+7          biktarvy
+7          vimpat
+7          klor-con m20
+7          phenylephrine (premix)
+7          dilt
+7          xtandi
+7          vasopressin (for 40units/2ml 2ml
+7          polyvinyl alcohol
+7          palivizumab
+7          cilo
+7          nitrofurantoin
+7          potassium
+7          lotrel
+7          ipratropium
+7          dantrolene sodium
+7          lidocaine 2%/epinephrine
+7          treprostinil
+7          trizivir
+7          prismasol  (b32 k0)
+7          ranitidine hcl
+7          vorinostat
+7          albumin 5% (
+7          tasmar
+7          tacro
+7          teriparatide
+7          foradil aerolizer
+7          mult
+7          ganciclovir 0.15% ophth gel
+7          lidocaine jelly
+7          velphoro
+7          pancreaze
+7          povidone iodine 1/8 strength
+7          denosumab (xgeva)
+7          tetanus immune globulin
+7          ethyl chloride
+7          coq10 200 mg
+7          wellbutrin xl
+7          nalbuphine hcl
+7          idelalisib
+7          mirabegron
+7          semaglutide
+7          doripenem *nf*
+7          durezol
+7          dexrazoxane
+7          lindane lotion
+7          voriconazole 1% ophth. soln
+7          culturelle
+7          creon 20
+7          otezla
+7          steglatro
+7          movantik
+7          zolmitriptan
+7          phoslo
+7          ceftazidime desensitization
+7          nuedexta
+7          dactinomycin
+7          solifenacin
+7          amitiza
+7          pazopanib
+7          omegaven 10% emulsion
+7          rosuvastatin
+7          lenvatinib
+7          humalog junior kwikpen
+7          hydromorphone/bupivacaine/clonidine intrathecal
+7          vraylar
+7          pitavastatin calcium
+7          jantoven
+6          lamictal
+6          dextrose
+6          valbenazine
+6          tafamidis
+6          travoprost 0.004 % ophth soln  (*nf*)
+6          thioridazine hcl
+6          pregabalin (lyrica)
+6          benazepril hcl (bulk)
+6          insulin lispro (for insulin pump)
+6          dexamethason
+6          humalog u-100 insulin
+6          prucalopride
+6          haloperidol 5mg/1ml 1ml vial
+6          morphine sulfate 2mg/1ml 1ml syr
+6          imitrex
+6          *nf* bicalutamide
+6          isosorbide mono
+6          dextromethorphan
+6          align
+6          inv-alteplase
+6          fish oil
+6          flurbiprofen 0.03%
+6          docusate sod
+6          vancomycin – pharmacy to dose (id consult or icu only)
+6          malarone
+6          mobic
+6          nifed
+6          gentamicin sulf. ophth. soln
+6          botulinum toxin type a
+6          isosorbide mononitra
+6          sulfacetamide-prednisolone ophth. susp.
+6          inv-bl-8040
+6          estrace
+6          nuplazid
+6          lidocaine 1% pf
+6          lumigan 0.01%
+6          calcium carbonate (tums)
+6          inv-coq10 300mg
+6          benzo
+6          ciclopirox
+6          procarbazine hcl
+6          hexavitamin
+6          anidulafungin
+6          didanosine ec
+6          morphine 0.2% oral rinse
+6          valganciclovir (self med)
+6          oxymetazoline hcl
+6          isosorbide mon
+6          ergotamine-caffeine
+6          tresiba u-100 insulin
+6          vancomycin 50mg/ml ophth soln
+6          creatine monohydrate (bulk)
+6          phenob
+6          icatibant
+6          phenylephrin 50mg/250ml 250ml ns
+6          imdur
+6          systane balance
+6          uroxatral
+6          ivabradine
+6          lialda
+6          povidone iodine
+6          phenoba
+6          antithrombin 3 (human)
+6          rizatriptan
+6          amphotericin b ophth soln 0.1%
+6          vascepa
+6          isosor
+6          xarelto
+6          inv-lenalidomide
+6          chlorambucil
+6          prilosec
+6          trulicity (dulaglutide)
+6          streptozocin
+6          aspirin 81mg
+6          ultrase mt 20
+6          cabozantinib
+6          insulin regular human (u-500) (for insulin pump)
+6          edurant
+6          pegfilgrastim
+6          penicillin g k graded challenge
+6          quinupristin/dalfopristin
+6          loper
+6          physostigmine salicylate
+6          brivaracetam oral solution
+6          hydromorphone (d 1mg/1ml 1ml syr
+6          arsenic trioxide *nf*
+6          apidra
+6          heparin (for ip use)
+6          neomycin-polymyxin-bacitracin ophth. oint
+6          casodex
+6          nifedical xl
+6          proglycem
+6          oxybutynin xl   (*nf*)
+6          insulin human 70/30
+6          fetzima
+6          estraderm
+6          apri
+6          vancomycin (bulk)
+6          dexlansoprazole
+6          nystat
+6          kineret
+6          savella
+6          infliximab (remicade)
+6          basaglar kwikpen u-100 insulin
+6          epidiolex
+6          cariprazine
+6          novolin n
+6          osmoprep
+6          inv-blinatumomab
+5          xenazine
+5          toprol xl
+5          bactroban
+5          (0.9% nacl)
+5          daclatasvir
+5          rhinocort aqua
+5          singulair
+5          hydroxyzine hcl
+5          prednisolone sodium phosphate
+5          dulaglutide
+5          atropine sulfate (bristojet)
+5          alirocumab
+5          albut
+5          ampyra
+5          dopamine 400mg bag
+5          victoza
+5          klor-con 10
+5          bebtelovimab-eua
+5          istalol
+5          buprenorphine-naloxone film (12mg-3mg)
+5          fluocinonide
+5          brinzolamide-brimonidine
+5          nexium 24hr
+5          isoso
+5          atropine sulfa 1mg/10ml 10ml syr
+5          clarinex
+5          testos
+5          emsam
+5          genteal
+5          crizotinib
+5          valium
+5          sulfameth
+5          potassium c 20meq/50ml 50ml ivpb
+5          butrans
+5          cyanocobalamin (vitamin b-12)
+5          qualaquin
+5          mechlorethamine
+5          modaf
+5          multivit
+5          amiodarone (f 150mg/3ml 3ml vial
+5          furosemide 100mg/10ml 10ml vial
+5          epinephrine (for dil 2mg/2ml 2ml
+5          influenza a (h1n1) vaccine
+5          co q-10
+5          ondanset
+5          idarubicin hcl
+5          clobetasol
+5          ibrutinib (imbruvica)
+5          metoprolol succinate
+5          sulfameth/trimeth ss (self med)
+5          pantoprazole (self med)
+5          genteal gel
+5          vyzulta
+5          buprenorphine-naloxone
+5          icosapent ethyl
+5          calcium citrate
+5          nystatin oral
+5          sulfame
+5          creatine monohydrate
+5          arginine (l-arginine)
+5          afrin
+5          hydralazine 20mg/1ml 1ml vial
+5          vitamin b-12
+5          preservision
+5          ondansetron 4mg/2ml 2ml vial
+5          prozac
+5          tretinoin
+5          procainamide sr
+5          isosorb
+5          lipos daunorub-cytara (vyxeos)
+5          ocuflox
+5          gefitinib
+5          ambien cr
+5          phen
+5          riociguat
+5          timolol maleate (pf)
+5          gabapentin (liquid)
+5          atorvastatin 40 mg capsule
+5          strattera
+5          qvar redihaler
+5          dorzolamide-timolol (pf)
+5          prevacid
+5          nitazoxanide
+5          rabies vaccine
+5          prograf suspension
+5          insulin regular human
+5          gatifloxacin
+5          ertapenem
+5          pheno
+5          humalog mix 75-25 kwikpen
+5          docus
+5          scopolamine hbr
+5          magonate
+5          profilnine sd
+5          chloroprocaine 2%
+5          streptomycin sulfate
+5          denosumab (prolia)
+5          lasix
+5          catapres
+5          thermotabs
+5          haloperidol lactate
+5          aspirin desensitization
+5          neoral
+5          insulin detemir (levemir)
+5          mod-oxycodone
+5          agrylin
+5          omnipred
+5          gentamicin 2.5 mg/ml in sodium citrate 4%
+5          iloperidone
+5          neomycin-polymyxin-gramicidin
+5          oxycodone (immediate rel 5mg tab
+5          zeasorb af
+5          metipranolol
+5          albu
+5          lipram-ul20
+5          zemplar
+5          fluvastatin
+5          bosentan
+5          methadone intensol
+5          cidofovir 1% topical paste
+5          lodosyn
+5          mirapex er
+5          humalog junior kwikpen ** non-formulary **
+5          v-c forte
+5          tretinoin 0.1% cream
+5          belladonna-opium
+5          atrovent
+5          tiagabine hcl
+5          duvelisib
+5          inv-gilteritinib
+5          gilteritinib
+4          axicabtagene ciloleucel
+4          fluphenazine hcl
+4          keflex
+4          prezcobix
+4          aspirin (rectal)
+4          esmolol (0.9% nacl)
+4          temodar
+4          proventil hfa
+4          nitrofurantoin macrocrystal
+4          potassium chloride (po 20meq pkt
+4          hydroxypropyl meth. 2.5% ophth
+4          imipenem-cilastatin-relebactam (recarbrio) *nf*
+4          pentamidine inhalation
+4          critic-aid
+4          preservision lutein
+4          2
+4          bupr
+4          biotin
+4          fesoterodine
+4          nelfinavir mesylate
+4          tecfidera
+4          tafamidis meglumine
+4          choline magnesium trisalicylate
+4          propoxyphene hcl
+4          eszopiclone
+4          valgancicl
+4          polyvinyl alcohol-povidone
+4          benicar hct
+4          ceftolozane-tazobactam *nf*
+4          sulfacetamide-prednisolone ophth. oint.
+4          livalo
+4          dalfampridine
+4          lantus solostar u-100 insulin
+4          sonata
+4          vera
+4          sodium chloride (23.4%) kit
+4          *nf
+4          levemir insulin
+4          novolog flexpen 100 units/ml
+4          lexapro
+4          sulfadiazine
+4          quetiapine
+4          cortifoam
+4          nepafenac
+4          depakene
+4          nifedipi
+4          fluticasone-umeclidin-vilanter
+4          niac
+4          aggrenox
+4          etodolac
+4          flutamide
+4          systane
+4          isosorbide mo
+4          inv-pembrolizumab
+4          lactaid fast act
+4          albuterol inhaler inh
+4          atorvastatin 40 mg
+4          calcium gluconate (premix)
+4          stalevo 200
+4          inv-anakinra
+4          inv-prednisone
+4          inv-zinc sulfate
+4          lidocaine 2% 20ml vial
+4          acetaminophen 500mg tab
+4          lidocaine 1% 20ml vial
+4          propantheline bromide
+4          sitagliptin-metformin
+4          nasacort aq
+4          sovaldi
+4          epinephrine hcl
+4          ofev
+4          lidocaine p.f.
+4          sodium bicar
+4          formoterol fumarate
+4          xanax
+4          relistor
+4          aspirin-dipyridamole
+4          phospholine iodide
+4          ambien
+4          exenatide
+4          kcentra
+4          dilti
+4          descovy
+4          chloroprocaine 2% mpf
+4          deferoxamine mesylate
+4          methylergonovine maleate
+4          pneumococcal 20-valent conjugate vaccine
+4          lactase
+4          lindane shampoo
+4          combigan (brimonidine-timolol)
+4          cocaine 4% soln
+4          meningococcal poly vaccine (menomune)
+4          viibryd
+4          albuterol 0.083% neb soln 1neb
+4          b-12 dots
+4          zinc
+4          bupropi
+4          lidocain
+4          bupivacaine 0.125%
+4          coq10 200 mg liquid
+4          epi
+4          alectinib
+4          coq10 200 mg caps
+4          niacinamide 3g, 1g,
+4          prometrium
+4          cilosta
+4          baclofen intrathecal
+4          folgard
+4          omadacycline
+4          praziquantel
+4          glucosamine-chondroitin
+4          sitagliptin 100mg
+4          shingrix (pf)
+4          aspiri
+4          prevacid 24hr
+4          lipase-protease-amylase
+4          razadyne
+4          anast
+4          epinephrine emergency syringe
+4          amiodarone (for dilution)
+4          bupivacaine 0.2%
+4          sulfam
+4          berinert
+4          *nf* pletal
+4          divalp
+4          ephedrin
+4          homatropine hbr
+4          myrbetriq (mirabegron)
+4          tropicamide 0.5%
+4          varenicline
+4          avandia
+4          loraze
+4          zoledronic acid (zometa)
+4          vitamin d 3
+4          *nf* rasburicase
+4          hydromorphone/bupivacaine intrathecal
+4          dextroamphetamine-amphetamine
+4          pramlintide
+4          zovirax
+4          inv-leronlimab
+4          formoterol
+4          5% dextrose (non deph)
+4          bupivacaine 0.15%
+4          inv-midostaurin
+4          imiquimod
+4          infliximab-dyyb (inflectra)
+4          amphetamine salt combo
+4          maxalt
+4          phenobarbital-icu alcohol withdrawal (loading dose 1) (im) (for clinician use)
+4          dexamethas
+4          pentasa
+4          florastor
+4          alpha lipoic acid
+4          polytrim
+4          nevanac
+4          insulin lispro desensitization protocol
+4          insulin regular
+4          progesterone
+4          cefuroxime axetil
+4          azacitidine (subcut)
+4          doxil
+4          maribavir 100 mg tab
+4          oxandrolone
+4          carvedilol phosphate
+4          lutein
+4          mg-plus-protein
+4          alemtuzumab (campath)
+4          dexameth
+4          avelox
+4          *nf* pramipexole
+4          inv-pt2977
+4          nivolumab
+4          procardia xl
+4          neut
+4          *nf* moxifloxacin
+4          olan
+4          insulin detemir (levimir)
+4          chloroprocaine 3% mpf
+4          toujeo solostar
+4          pfns (syringe)
+4          vancomycin intrathecal
+4          test
+4          topotecan
+4          nucynta
+4          revatio
+4          santyl
+4          imd
+4          nimodipine 60mg
+4          humalog 75/25 pen
+4          rabies immune globulin
+4          farxiga
+4          acidophilus
+4          boceprevir
+4          tymlos
+4          lomustine
+4          cannabidiol (cbd) (epidiolex) oral soln
+4          lescol xl
+4          azacitidine
+4          epoprostenol *nf*
+4          inv-cabozantinib (cabozantinib)
+4          dexamethaso
+4          zyflo cr
+4          insulin novolog flexpen
+4          mycophen
+4          oxbryta
+4          dilaudid
+4          d5w w 0.1% albumin
+4          levomilnacipran
+3          imdu
+3          ethanol 10% catheter dwell
+3          zantac maximum strength
+3          imbruvica
+3          imipenem-cilastatin-relebactam *nf*
+3          prolensa (bromfenac) 0.07%
+3          ins
+3          bude
+3          omalizumab
+3          renvela
+3          cytogam
+3          systane (pf)
+3          docu
+3          larotectinib
+3          calcium chlori 1gm/10ml 10ml syr
+3          inv-pf-07304814
+3          defibrotide *nf*
+3          valgancic
+3          onglyza
+3          bisoprolol-hydrochlorothiazide
+3          aceta
+3          phytona
+3          propafenone
+3          topamax
+3          triam
+3          vicodin (hydrocodone-acetaminophen)
+3          vicodin es
+3          mul
+3          lipiodol
+3          calcium citrate + d 630mg-13mcg
+3          furosemide 40mg/4ml 4ml vial
+3          prednisone intensol
+3          xeljanz xr
+3          belsomra
+3          dimethyl fumarate
+3          viactiv
+3          zaleplon
+3          rozerem
+3          lidocai
+3          pembrolizumab
+3          tenofovir alafenamide fumarate
+3          ecallantide
+3          lactase enzyme
+3          iron sucrose
+3          lokelma
+3          hydromorphone pca
+3          fluconazole suspension
+3          morphine pca
+3          cilost
+3          mometasone-formoterol
+3          aspi
+3          tacroli
+3          gentamicin intraventricular
+3          pred forte
+3          oxybutynin chloride er
+3          benadryl itch stopping
+3          lactinex
+3          coq10 200mg
+3          megace es
+3          acetaminophen 325mg tab
+3          cet
+3          albuterol inhaler (proair)
+3          levemir flextouch u-100 insuln
+3          depakote
+3          ustekinumab
+3          valganci
+3          levemir u-100 insulin
+3          sodium chlor
+3          prednisone (self med)
+3          fluconazole (self med)
+3          genteal  mild to moderate
+3          flebogamma
+3          pyridostigmine
+3          tessalon
+3          pristiq er
+3          coenzyme q10 (300 mg)
+3          iodine strong (lugols)
+3          benzocaine
+3          ornithine phenylacetate
+3          bup
+3          zofran
+3          b-complex
+3          crizotinib (xalkori)
+3          rabeprazole
+3          atrovent neb.
+3          dextrose 50% 25gm/50ml 50ml syr
+3          daratumumab
+3          biotene oralbalance (glycerin)
+3          benadryl allergy
+3          flecainide
+3          nysta
+3          ferrous
+3          lamotrigine rectal susp
+3          bupropio
+3          nitroglycerin ointment
+3          zeasorb
+3          asacol
+3          tedizolid
+3          riociguat (adempas)
+3          abatacept
+3          olaparib
+3          doxylamine succinate
+3          ceti
+3          lidocaine (bristojet)
+3          januvia (sitagliptin)
+3          genteal pm
+3          cil
+3          venlafax
+3          isosorbide m
+3          clomiphene citrate
+3          album
+3          fiasp (aspart) flextouch u-100 insulin
+3          *nf* fiasp (aspart) flextouch u-100 insulin
+3          felbamate
+3          hydromorphone infusion – comfort care guidelines
+3          pregabalin oral solution
+3          lovaza
+3          phenylephrin 60mg/250ml 250ml ns
+3          isosorbide monon
+3          cetir
+3          refresh plus
+3          *nf* creon 24
+3          phenylephrine 50mg/5ml 5ml vial
+3          racepinephrine 2.25% soln
+3          doxepin
+3          relpax
+3          darifenacin
+3          rotigotine 6 mg/24hr (neupro)
+3          heparin flush
+3          centrum silver
+3          dolasetron
+3          benzon
+3          aminocaproic acid 25% oral rinse
+3          dival
+3          crestor
+3          normal saline flush
+3          niacin flush free
+3          inv-niacinamide
+3          zinc chloride
+3          ana
+3          ingrezza
+3          vitamin d-3
+3          magnesium
+3          *nf* fenofibrate
+3          kaopectate (bismuth subsalicy)
+3          tresiba
+3          rocklatan
+3          tenecteplase
+3          isosorbide mononitr
+3          opsumit
+3          budesonide nasal inhaler
+3          tanzeum
+3          doxycycline monohydrate
+3          tarceva
+3          coumadin
+3          evoxac
+3          tekturna
+3          toujeo
+3          novor100i
+3          vitamin b-1
+3          atg (horse)
+3          belumosudil *nf*
+3          abilify
+3          aspirin 325 mg
+3          coq10 200 mg capsule
+3          magnesium sulfate 50 % topical soln
+3          miconazole
+3          megestrol
+3          cystagon
+3          phenobar
+3          phenobarbital -  icu alcohol withdrawal (loading dose 2 and 3) for pharmacy use only
+3          inv-cyclophosphamide
+3          inv-fludarabine
+3          insulin nph human recomb
+3          fentanyl citrate (pf)
+3          nasacort
+3          brimonidine 0.2%
+3          scopolamine base
+3          levatol
+3          verap
+3          novolin 70/30
+3          phenobarbi
+3          arginine (l-arginine) (bulk)
+3          isos
+3          1
+3          suboxone
+3          tuck
+3          docusate so
+3          razadyne er
+3          acyclovir 400 mg
+3          fentora
+3          rhopressa (netarsudil)
+3          os-cal 500 + d
+3          sutent
+3          methadone oral liquid
+3          *nf* ranolazine er
+3          nephro
+3          levoleucovorin
+3          artificial
+3          diflorasone
+3          epinephrine 200mcg/25ml 25ml syr
+3          coreg cr
+3          paroxetine hcl
+3          camphor-menthol
+3          0.9% sodium chloride (viaflex)
+3          inv-trv027
+3          trilipix
+3          fenofibric acid
+3          ureacin-20
+3          enasidenib
+3          bisop
+3          bystolic (nebivolol)
+3          nifedi
+3          valganc
+3          aricept
+3          enfuvirtide
+3          iron dextran
+3          glipiz
+3          avonex
+3          cosopt
+3          junel 1/20 (21)
+3          atovaquone-proguanil (250mg-100mg)
+3          dextromethorphan hbr
+3          baricitinib
+3          mucinex dm
+3          jolessa
+3          dipentum
+3          tracleer
+3          midrin
+3          enoxapar
+3          creon 24
+3          omeprazole-sodium bicarbonate
+3          itraconazole solution
+3          ciprodex
+3          levofloxacin graded challenge
+3          novolin r regular u-100 insuln
+3          telaprevir 375mg tablets
+3          savella (milnacipran)
+3          multivitamin iv (without vit. k)
+3          neomycin-polymyxin b gu
+3          trospium er
+3          xeloda
+3          canagliflozin
+3          humulin r u-500 (conc) insulin
+3          inv-clofazimine
+3          insulin-symlin
+3          wixela inhub
+3          cyanoco
+3          predniso
+3          granisetron hcl
+3          votrient
+3          imatinib oral suspension
+3          cytarabine liposome
+3          vibegron
+3          teriflunomide
+3          biotene dry mouth oral rinse
+3          famcic
+3          glutathione (bulk)
+3          vytorin 10-20
+3          livalo (pitavastatin calcium)
+3          obinutuzumab
+3          hiprex
+3          halobetasol propionate
+3          deferoxamine (dfo)
+3          pembrolizumab desensitization
+3          ethosuximide
+3          sildenaf
+3          alrex
+3          hydromorph
+3          inv-bexanolone
+3          inv-ttax01
+3          nystati
+3          diltiazem 25mg/5ml 5ml vial
+3          requip
+3          calcium gluconate replacement (oncology)
+3          gengraf
+3          insulin detemir *nf*
+3          bleomycin - test dose
+3          nucynta (tapentadol)
+3          tylenol arthritis pain
+3          levodopa-benserazide (50 mg/12.5 mg)
+2          metoprolo
+2          levothyr
+2          tetrabenazine (xenazine)
+2          bismuth
+2          olm
+2          imodium
+2          sulfameth/trimetho
+2          darvocet-n 100
+2          amerge
+2          furosemide (latex free)
+2          actemra
+2          biotene moisturizing mouth
+2          rotigotine (neupro)
+2          ocuvite
+2          epine
+2          lidocaine hcl
+2          nitroglyce 100mg/250ml 250ml btl
+2          iprat
+2          dextran 70-hypromellose
+2          tim
+2          lifitegrast
+2          larotrectinib
+2          azor
+2          exelon (rivastigmine) 9.5 mg patch
+2          arnuity ellipta
+2          monopril
+2          lidocaine hcl-hydrocortison ac
+2          tamiflu
+2          sodium bi
+2          inv-azd1061
+2          inv-azd8895
+2          vicodin hp
+2          vicodin
+2          inv-letermovir(letermovir)
+2          letermovir (letermovir)
+2          aluminum chloride
+2          oritavancin *nf*
+2          velivet triphasic regimen (28)
+2          prevpac
+2          multivi
+2          dextrose 10%  (*glass bottle*)
+2          selonsertib
+2          tudorza pressair
+2          inv-csl112/albumin
+2          flucytosine suspension
+2          levemir 100 units/ml (detemir)
+2          k-dur
+2          bydureon
+2          insulin levemir
+2          mestinon
+2          immune globulin intravenous (human)
+2          bupivacaine 0.25%-epinephrine
+2          ropinirole er
+2          aluminum hydroxide
+2          sofosbuvir/velpatasvir
+2          senna syrup
+2          rifapentine
+2          carbatrol
+2          dexlansoprazole (dexilant)
+2          tobramycin-dexamethasone
+2          pancre
+2          dymista
+2          phenytoi
+2          dextrose 20% (*glass bottle*)
+2          timo
+2          trifluridine
+2          methadone (dispersible tablet)
+2          cepa
+2          ativan
+2          meningococcal conj vaccine (menomune)
+2          epo
+2          insulin aspart u-100
+2          tenofovi
+2          tenofovir
+2          cymbalta
+2          senna plus
+2          tretinoin (chemotherapy)
+2          preparation h
+2          prednisone 40 mg/0mg
+2          zinc sulfate 220 mg/0 mg
+2          anakinra syringe 100 mg/0mg
+2          lidocaine 1% p.f. 2ml amp
+2          morphine sulfat 4mg/1ml 1ml vial
+2          midazolam 100mg/100ml 100ml bag
+2          bupivacaine 0.50%-epinephrine
+2          neutra
+2          furosemide in 0.9% sodium chloride
+2          d20w (glass bottle)
+2          glyco
+2          kayexalate
+2          pioglitazone-metformin
+2          janumet (sitagliptin-metformin)
+2          lorazepam 2 mg syringe
+2          voltaren arthritis pain
+2          nintedanib
+2          pomalyst
+2          invega
+2          morph
+2          bydureon 2mg/0.65ml pen
+2          preservision areds 2
+2          difluprednate
+2          atrovent hfa
+2          tobradex
+2          hyos
+2          zioptan (pf)
+2          nystatin powder
+2          protonix
+2          plavix
+2          dalteparin
+2          echothiophate iodide
+2          zolpidem
+2          bimatoprost  0.03%  ophth  (*nf*)
+2          temsirolimus
+2          bromday
+2          sandostatin lar depot
+2          orphenadrine compound
+2          pristiq (desvenlafaxine)
+2          aminocapr
+2          humulin r u-500 concentrated
+2          gaviscon extra strength
+2          coq10 300mg
+2          ah topical gel
+2          zantac 75
+2          zestril
+2          amoxicill
+2          oxycodo
+2          janumet xr
+2          pneumoc 13-val conj-dip cr(pf)
+2          acetami
+2          cimzia
+2          arginine hcl (l-arginine)
+2          insulin human regular (dilute)
+2          medrol
+2          cepacol
+2          vorico
+2          rasagiline (azilect)  1mg tab
+2          mesal
+2          yasmin 28
+2          lidocaine 0.5
+2          orphenadrine citrate
+2          maxair autohaler
+2          dextroamphetamine er
+2          quinidine gluconate
+2          quinidine
+2          trinessa (28)
+2          dilantin infatabs
+2          tafamidis (vyndamax)
+2          zaditor (ketotifen fumarate)
+2          copper gluconate
+2          phenylephrine (for dilu 60mg/6ml
+2          micardis
+2          sudafed
+2          pulmicort flexhaler 180mcg
+2          symbicort (budesonide-formoterol)
+2          sacubitril-valsartan
+2          ofirmev
+2          cefpodo
+2          iloprost
+2          oxycontin 15mg tab
+2          lipitor
+2          anusol-hc
+2          theratears gel 1%
+2          nitro-dur
+2          aminocaproi
+2          sensipar
+2          everolimus (antineoplastic)
+2          povidone
+2          phenylephrine hcl
+2          opsumit (macitentan)
+2          pacerone
+2          theophyllin
+2          rapaflo
+2          systane complete
+2          aspirin (chewable)
+2          citrucel
+2          betoptic s
+2          unithroid
+2          *nf* sunitinib
+2          pazeo
+2          norvasc
+2          premarin
+2          flaxseed oil
+2          theratears
+2          nifedip
+2          vedolizumab
+2          symbicort 160/4.5mcg
+2          aminolevulinic acid
+2          lithium citrate (syrup)
+2          verapami
+2          paxil
+2          zyprexa zydis
+2          vytorin 10-40
+2          tresiba (degludec) flextouch u-100
+2          metform
+2          inv-otl-38
+2          pralatrexate
+2          capsaicin
+2          saline nasal mist
+2          secretin
+2          kaletra
+2          revatio (sildenafil)
+2          venlafaxi
+2          gadobutrol
+2          fleet
+2          polyethylene glycol 400 (bulk)
+2          atropine
+2          feraheme
+2          cardizem cd
+2          pegfilgrastim onpro (on body injector)
+2          octreotide lar 10mg depot
+2          potass
+2          eletriptan hbr
+2          midodrine 20mg
+2          mepivacaine 1%
+2          viokase 16
+2          tykerb
+2          alinia
+2          clindagel
+2          enoxapari
+2          linagliptin-metformin
+2          morphine sul
+2          dextrose 30% in water (d30w)
+2          nafcillin graded challenge
+2          mycoph
+2          intelence
+2          fluorescein strip
+2          divalproex dr
+2          depakote (divalproex)
+2          zoloft
+2          exjade
+2          covid-19 vaccine bivalent (pfizer)
+2          aspirin 325mg
+2          skyrizi
+2          *nf* levalbuterol soln
+2          thiotepa
+2          bupropion hcl
+2          lanacane anti-itch
+2          mirtazapine soluble
+2          metamucil sugar-free (aspart)
+2          chantix continuing month pak
+2          tresiba (insulin degludec)
+2          nys
+2          multiv
+2          halop
+2          tacrol
+2          sodium citrate-citric acid
+2          nintedanib (ofev)
+2          glyburide/metformin (1.25mg-250mg)
+2          inv-clopidogrel
+2          bupivacaine 0.75%
+2          slow-mag
+2          oxervate 0.002%
+2          calcitrate
+2          prenatal plus
+2          darolutamide
+2          pramoxine-mineral oil-zinc
+2          coq10 200mg caps
+2          xalatan (latanoprost)
+2          azopt (brinzolamide)
+2          ara
+2          prevnar 13 (pf)
+2          viagra
+2          novolin
+2          guai
+2          acetic acid 3% (for topical irrigation)
+2          procarbazine
+2          uptravi (selexipag)
+2          zytiga (abiraterone)
+2          bimatoprost 0.01%
+2          panc
+2          *nf* iron sucrose
+2          epinephr
+2          coq10 (300 mg)
+2          lorlatinib
+2          zz
+2          betaxolol
+2          ruxolitinib (crushed tab)
+2          propr
+2          advil liqui-gel
+2          aspirin 81 mg
+2          flurbiprofen sodium
+2          nicotine
+2          anagrel
+2          hepa
+2          nia
+2          fenoglide
+2          zenpep (25,000/85,000/136,000)
+2          albumin 5% )
+2          morp
+2          ipratropium bromide neb 1neb
+2          wellbutrin sr
+2          epinephri
+2          prempro
+2          humira pen
+2          aspercreme (lidocaine hcl)
+2          carbid
+2          effexor
+2          cetiri
+2          moda
+2          edrophonium chloride
+2          anoro ellipta (umeclidinium-vilanterol)
+2          nyst
+2          hydr
+2          biofreeze (menthol)
+2          nilotinib *nf*
+2          lidocaine 1%/epinephrine 1:200000
+2          selenium
+2          isosorbi
+2          cutivate
+2          adalimumab
+2          amylase-lipase-protease
+2          azasite
+2          sulfazine ec
+2          avodart (dutasteride)
+2          amphetami
+2          calcium gluconate replacement (critical care and oncology)
+2          sotalol af
+2          nystatin oral susp (self med)
+2          linezolid antibiotic lock
+2          phenobarbital oral soln
+2          aldara
+2          neomycin-polymyxin-dexameth
+2          belladonna-phenobarbital
+2          linezolid suspension
+2          ganciclovir 500 mg caps
+2          ganciclovir 500mg caps
+2          ganciclovir 500 mg cap
+2          insul
+2          dabrafenib (tafinlar) 75mg
+2          cozaar
+2          testosterone enanthate
+2          octreotide lar depot
+2          aminocap
+2          epinephrin
+2          travoprost (benzalkonium)
+2          neulumex (barium sulfate 0.1% suspension)
+2          brintellix
+2          pataday
+2          valproic
+2          candida albicans
+2          bisoprolol
+2          bisopro
+2          sodium ferric gluconat-sucrose
+2          *nf* econazole nitrate 1% cream
+2          *nf* erlotinib
+2          oystershell500+vitd3
+2          ventolin hfa
+2          diazoxide (proglycem)
+2          mekinist (trametinib)
+2          protriptyline
+2          nicotrol ns
+2          acet
+2          insulin asp prt-insulin aspart
+2          xtandi (enzalutamide)
+2          *nf* arginine hcl
+2          riociguat 1mg
+2          lovenox
+2          rhopressa 0.02%
+2          uloric
+2          b complex-vitamin c-folic acid
+2          bisoprolol fumarate 10mg
+2          tiazac
+2          ubiquinol coq10 (300mg)
+2          invega sustenna
+2          glybu
+2          morphi
+2          twinrix (pf)
+2          neomycin-polymyxin b-dexameth
+2          dexame
+2          urea-c40
+2          ketorolac 0.5% opth solution
+2          multivitami
+2          budeso
+2          saccharomyces boulardii
+2          carbatrol er
+2          asp
+2          *nf* estraderm
+2          telavancin *nf*
+2          tenofovir disoproxil (viread) powder
+2          isosorbide mononit
+2          pramlintide (symlin)
+2          amoxicillin-clavulanate
+2          glycopyrrolat 0.4mg/2ml 2ml vial
+2          betadine
+2          pyridostigmine bromide sr
+2          meperi
+2          ganciclovir 500 mg  cap
+2          excedrin extra strength
+2          phos
+2          icy hot
+2          epirubicin
+2          stye lubricant
+2          corlanor
+2          saxenda
+2          trametinib 2mg tablet
+2          isosorbide mononi
+2          lumigan 0.03% ophth  (*nf*)
+2          saliva substitute
+2          taclonex
+2          guanfacine (tenex)
+2          simvastin
+2          esbriet
+2          clonidine patch 0.1
+2          glucagon emergency
+2          zinc gluconate
+2          tenofov
+2          ola
+2          ofatumumab
+2          gaviscon
+2          mvi
+2          macitentan (opsumit)
+2          qvar beclomethasone dipropionate
+2          nucynta er
+2          revatio (sildenafil citrate)
+2          macitentan 10mg
+2          toujeo max u-300 glargine
+2          molindone hcl
+2          fluoxetine oral liquid
+2          cabometyx
+2          inv-venetoclax
+2          inv-atorvastatin
+2          netarsudil (rhopressa)
+2          testim
+2          fosamax
+2          adcirca
+2          dexilant (dexlansoprazole)
+2          wellb
+2          suprep bowel prep kit
+2          mupi
+2          cilostaz
+2          inv-nimodipine 600mg
+2          flona
+2          famotidine-ca carb-mag hydrox
+2          ciclodan
+2          insulin humalog 75/25 pen
+2          *nf* levalbuterol neb
+2          fluocinolone
+2          rytary (carbidopa-levodopa)
+2          alecensa
+2          bume
+2          metformin er
+2          zyloprim
+2          dexedrine spansule
+2          micardis hct
+2          creon 36000
+2          dimethyl sulfoxide
+2          norepinephrine ((for dil 8mg kit
+2          micronase
+2          flovent diskus
+2          glipizide-metformin
+2          praluent pen
+2          benefiber
+2          insulin-levimir
+2          proctozone-hc
+2          liposomal cytarabine (depocyt)
+2          micro-k
+2          niaci
+2          aminocaproic
+2          fluzone trival
+2          dex
+2          yuvafem
+2          yuvafem vaginal tablet suppository
+2          olanza
+2          phenylephrine 10 % ophth soln
+2          perforomist
+2          lidocaine 1
+2          metoclopramide (liquid)
+2          creon 24 capsules
+2          insulin regular hum u-500 conc
+2          acetylcys
+2          sprintec (28)
+2          influenza virus
+2          duoneb
+2          idecabtagene vicleucel
+2          carbam
+2          tegretol xr (carbamazepine)
+2          combivir
+2          hydroxyprogesterone caproate
+2          coq10
+2          insulin lispro protam-lispro
+2          valgan
+2          medroxyprogesterone (bulk)
+2          medroxyprogesterone
+2          enalapril
+2          magtab
+2          tacrolimus (brand) *nf*
+2          menomune
+2          meperidine (pf)
+2          prenatal vitamin (natures bounty)
+2          neupogen
+2          pifeltro
+2          maalox
+2          rinvoq
+2          metoclop
+2          methylene
+2          methylphenidate hcl
+2          morphin
+2          robinul
+2          alfuzosin er
+2          addera
+2          mitomycin
+2          seve
+2          toujeo max solostar
+2          indinavir
+2          kerendia
+2          sodium chloride 0.9 % inhaled
+2          calcijex
+2          evolocumab
+2          alteplase 1mg/5ml ( clearance ie. indwelling port )
+2          milnacipran
+2          triumeq
+2          insuli
+2          levemir flexpen 100 units/ml
+2          zirgan
+2          focalin xr
+2          artificial tears (pf)- genteal eye gel
+2          artificial tears (pf)
+2          tenofovir disoproxil fum.
+2          aubagio
+2          latanoprostene bunod (vyzulta)
+2          telmisartan
+2          sulfa
+2          benzocaine 20%/ lidocaine 8%/ tetracaine 4% cream
+2          hyoscyamine sulfate
+2          eltrombopag *nf*
+2          tradjenta (linagliptin)
+2          asacol hd
+2          percocet
+2          pradaxa
+2          elotuzumab
+2          *nf* dasatinib
+2          flunisolide inhaler
+2          alosetron
+2          vyndamax
+2          xyrem
+2          saw palmetto
+2          emtricitabine-tenofovir alafen (200mg-25mg)
+2          calcipotriene-betamethasone
+2          alka-seltzer
+2          *nf* pregabalin
+2          lcp tacrolimus
+2          amoxapine
+2          colace
+2          invega(paliperidone)
+2          desonide
+2          aranesp (in polysorbate)
+2          mysoline
+2          epogen
+2          calquence (acalabrutinib)
+2          nizatidine
+2          add
+2          synthroid 75 mcg
+2          isordil titradose
+2          voxtalisib
+2          synthroid (levothyroxine)
+2          oxycodon
+2          morphine sulfate pf
+2          dakins 1/8 strength
+2          voxelotor
+2          trivora (28)
+2          bisaco
+2          simvastatin 40 mg
+2          vyvanse
+2          xylimelts (xylitol)
+2          dulera (mometasone-formoterol) 200-5mcg/actuation
+2          azimilide
+2          demeclocycline
+2          isomethepten-caf-acetaminophen
+2          timoptic 0.5% pf
+2          diphenhyd
+2          lansoprazole oral disintegrating tab *nf*
+2          zenpep 20000 units
+2          zenpep 20000
+1          ropivacaine (pf)
+1          levetiracetam patch for allergy testing
+1          phenobarbital patch for allergy testing
+1          phenytoin patch for allergy testing
+1          lamotrigine patch for allergy testing
+1          levo
+1          dulera100-5
+1          xenazine 25mg
+1          tetrabenazine (xenazine) 25mg tab
+1          tetrabenazine 25mg tablet
+1          digox
+1          phytonadi
+1          prilosec otc
+1          gabapentin (neurontin brand)
+1          genvoya(elviteg-cobi-emtric-tenofo ala)
+1          ondansetron hcl
+1          zolpidem cr
+1          theophy
+1          phentermine
+1          tocilizumab (actemra)
+1          aggre
+1          ventavis (iloprost)
+1          ventavis
+1          clomid
+1          dexilant (dexlansoprazole dr)
+1          exalgo er
+1          guaif
+1          buspiro
+1          osteo bi-flex
+1          diclofenac sodium 1% gel
+1          belbuca
+1          belviq (lorcaserin)
+1          copaxone (glatiramer)
+1          vitamin d 20,000units
+1          toviaz (fesoterodine)
+1          probiotic 10
+1          lorcaserin
+1          valbenazine (ingrezza)
+1          truvada
+1          coq10  200 mg
+1          sodium chloride 3% nebulizer
+1          warf
+1          dorzolamide-timolol 22.3/6.8mg/ml
+1          moxifloxacin 0.5%
+1          aspercreme
+1          loxo-101
+1          ciprofloxacin-dexamethasone
+1          nifer
+1          azor (amlodipine-olmesartan)
+1          b complex with c#20-folic acid
+1          bica
+1          levonorgestrel
+1          inv-bazedoxifene
+1          lyrica (brand)
+1          peginterferon alfa-2b
+1          ferrous fumarate
+1          zoledronic acid (reclast)
+1          multivitamins w/mineral
+1          hepari
+1          lipid emulsion 20%
+1          concerta (methylphenidate)
+1          inv-nivolumab
+1          wegovy
+1          daliresp (roflumilast)
+1          acetylc
+1          levorphanol tartrate
+1          viokace 20880, 78300, 78300
+1          viokace 20880,78300,78300
+1          d25w
+1          tenofovir alafenamide fumarate (vemlidy)
+1          warfar
+1          mesa
+1          anamorelin hcl
+1          levonest (28)
+1          jentadueto
+1          pramoxine
+1          rectiv
+1          focalin (dexmethylphenidate)
+1          estazolam
+1          integra
+1          ferrou
+1          vicodin 10-300
+1          simbrinza 1-0.2%
+1          rivar
+1          guaifenesin ac
+1          sucroferric oxyhydroxide
+1          diclofenac
+1          lidoca
+1          *nf* esomeprazole
+1          velivet
+1          isometheptene-dichloralphenazone-acetaminophen
+1          glybur
+1          simbrinza(brinzolamide-brimonidine)
+1          humulin n kwikpen
+1          hydrocor
+1          urso forte
+1          *nf* olmesartan medoxomil
+1          xopenex concentrate
+1          sodium bicarbo
+1          isosorbide dinitra
+1          lidocaine 0.5%/ep
+1          rotigotine 4mg/24hours
+1          tecfidera (dimethyl fumurate)
+1          fiasp penfill u-100 insulin
+1          fiasp u-100 insulin
+1          vitamin k-1
+1          celebrate
+1          wellbutrin
+1          bupropion  xl
+1          bromday (bromfenac) 0.09%
+1          cranberry concentrate
+1          autologus 20% diluted serum tears
+1          ixazomib
+1          epinephrine hcl (pf)
+1          vitiamin d 3
+1          griseofulvin ultramicrosize
+1          bydureon bcise
+1          fluva
+1          alka-seltzer original
+1          lidocaine (lidoderm)
+1          carbamazepine er 400mg tab
+1          dakins solution
+1          semprex-d
+1          vicks vaporub
+1          excedrin tension headache
+1          propecia
+1          revlimid (lenalidomide)
+1          dermasarra
+1          ammonium lactate 12%
+1          trelegy ellipta  (fluticasone-umeclidin-vilanter)
+1          zaroxolyn
+1          methad
+1          nifedipin
+1          kalbitor
+1          phy
+1          tizan
+1          sodium polystyrene
+1          azilect (rasagiline) 1mg tab
+1          novopen 3
+1          zantac
+1          flunisolide
+1          nilutamide
+1          janumet (sitaliptin-metformin)
+1          prolensa(bromfenac) 0.07%
+1          amoxicillin-clavulanate susp
+1          lotrimin
+1          terbinafine 1% soln
+1          cyclopentolate
+1          januvia (sitagliptin) 25mg tab
+1          loteprednol
+1          venlafaxin
+1          glyburi
+1          aspirin 81mg tab
+1          maa
+1          spectravite plus
+1          culturelle 10-245
+1          aspir
+1          neupro (rotigotine)
+1          nuplazid (pimavanserin)
+1          dulera(mometasone-formoterol
+1          lysine
+1          povidone i
+1          homatropine
+1          symbicort 160-4.5
+1          lotrimin af (clotrimazole)
+1          preparation h maximum strength
+1          levmetamfetamine
+1          levalbuterol inhaler
+1          albumin, human 25 %
+1          oxybutynin er
+1          albute
+1          selzentry
+1          forteo 600 mcg/2.4ml
+1          forteo (tepiratide) 600mcg/2.4ml
+1          trelegy ellipta (fluticasone-umeclidin-vilanter)
+1          protonix (granules for dr suspension)
+1          aralast
+1          anusol
+1          nifedipine 0.2% ointment
+1          nitroglycerin 0.4% ointment
+1          hydrocort
+1          anu
+1          senna plus (8.6-50mg)
+1          tylenol 8 hour
+1          mebendazole
+1          dobutamine 250mg bag
+1          meperidine 25mg/1ml 1ml syr
+1          albumin 5% 12.5g/250ml 250ml bag
+1          quetiapine fumarate 25mg tab
+1          lacosamide 200mg/100ml 100ml bag
+1          heparin 1000unit/1ml 10ml vial
+1          propofol 200mg/20ml 20ml vial
+1          symbicort 160-4.5 mcg/actuation
+1          levocarnitine (carnitor)
+1          ipratropium bromide hfa
+1          humira(cf) pen
+1          rapaflo (silodosin)
+1          nif
+1          lido
+1          depakote sprin
+1          combi
+1          rythmol sr
+1          prenatal
+1          prenatal one
+1          panto
+1          mepivacaine 2%
+1          treprostinil-nebulizer-accesor
+1          invirase
+1          roflumilast (daliresp)
+1          levemir 100 units/ml
+1          azithromy
+1          azithromyci
+1          probiotic-10
+1          victoza (litaglutide)
+1          hemorrhoidal h
+1          levsin
+1          hyosc
+1          *nf* micafungin
+1          anoro ellipta  (umeclidinium-vilanterol)
+1          ambrisentan(letairis)
+1          novolin r *latex free*
+1          celexa
+1          tylenol extra strength
+1          fluticasone propion-salmeterol
+1          chantix 0.5mg tab
+1          tadalafil (antihypertensive)
+1          salonpas-hot
+1          lidocaine jell
+1          permet
+1          inv-dalteparin
+1          phospholine iodide 0.125%
+1          trusopt
+1          finast
+1          tranexa
+1          0.9% sodium chloride - for irrigation)
+1          bromfenac (xibrom)
+1          xibrom (bromfenac)
+1          dexamethasone 10mg/1ml 1ml vial
+1          racepinephrine 0.5ml neb
+1          dabigatran
+1          osimertinib (tagrisso)
+1          tofacitinib er (xeljanz)
+1          pantopra
+1          pulmicort flexhaler 180 mcg
+1          tacr
+1          desvenlafaxine 50mg
+1          orphenadrine er
+1          desvenlafaxine er
+1          tramadol  er
+1          solaraze
+1          rexulti (brexpiprazole)
+1          ibu
+1          enoxapa
+1          linaclotide (linzess)
+1          hydrocortisone-acetic acid
+1          fasenra pen
+1          aviane
+1          daytrana
+1          fibercon
+1          zepatier (elbasvir-grazoprevir) 50/100mg
+1          lutera (28)
+1          microgestin 1.5/30 (21)
+1          heplisav-b (pf)
+1          paroxetine er
+1          anastr
+1          sulfasalazi
+1          scot-tussin expectorant
+1          bromfenac 0.09%
+1          morphine topical gel
+1          bulk chemical
+1          haloperidol topical gel (c-ah)
+1          lorazepam topical (c-ah)
+1          eucerin
+1          benzoyl peroxide gel 5%
+1          zocor
+1          oxyco
+1          artifici
+1          triazol
+1          tretin
+1          mavik
+1          vitamin b-100 complex
+1          galantamine er 16mg cap
+1          inv-abl001
+1          creatine monohydrate 2500mg cap
+1          arginine (l-arginine) 1000mg
+1          b complex
+1          acetylcystein
+1          nicardipine 40mg/200ml 200ml bag
+1          granix
+1          rhopressa (netarsusil) 0.02%
+1          rhopressa (netarsusil)
+1          aciphex 20mg
+1          melatonin-theanine
+1          halflytely-bisacodyl w-flav pk
+1          levemir insulin 100 units/ml
+1          lithium carbo
+1          iso
+1          1travatan z
+1          nevanac (nepafenac)
+1          lotemax opth
+1          vascepa (icosapent ethyl)
+1          olopatadine 0.2% ophthalmic solution
+1          povidone iodine 10% ointment
+1          revlimid 25 mg
+1          ninlaro (ixazomib)
+1          vivitrol (naltrexone microspheres)
+1          trazodone 25mg halftab
+1          cefazolin duple 2g/50ml 50ml bag
+1          avalide
+1          caspofungin *nf*
+1          simet
+1          dilantin
+1          adenosine disodium triphosphate
+1          phospha 250 neutral
+1          lisdexamfetamine (vynanse)
+1          duragesic
+1          estradiol (vivelle dot)
+1          vitamin b-6
+1          aluminum hydrox-magnesium carb
+1          flonas
+1          tradjenta (linagliptin) 5mg tab
+1          insulin 50/50
+1          diazepam 10mg/2ml 2ml syr
+1          lidocaine jelly 2% (glyd 6ml syr
+1          multivitamin viteyes
+1          viteyes macular support vitamin
+1          pulmicort (budesonide)
+1          sulfasalazine
+1          metoprol
+1          sevelamer hcl
+1          synt
+1          levot
+1          doxycy
+1          sucra
+1          hyo
+1          thalidomide
+1          paxlovid (eua)
+1          inv-rivaroxaban
+1          dextromethorphan-guaifenesin
+1          citracal + d
+1          citracal
+1          citracal regular
+1          ultra flora plus
+1          clopidog
+1          humulin
+1          ipratropium bromide nasal sol
+1          genteal liquid gel eye drops
+1          duloxe
+1          metformin xr
+1          lithiu
+1          senna-s
+1          naltrexone extended-release suspension
+1          enbrel sureclick
+1          paricalcitol (zemplar)
+1          x-viate
+1          meningococ vac a,c,y,w135 (pf)
+1          epoe
+1          durezol (difluprednate) 0.05% drops
+1          naloxegol
+1          clobetasol foam
+1          westcort
+1          olux-e
+1          apriso 0.375g capsules
+1          insulin lispro 75/25
+1          glipizid
+1          azmacort
+1          sodium hyaluronate
+1          ketotifen fumarate (alaway)
+1          sorafenib 200mg
+1          senna laxative
+1          microgestin fe 1/20 (28)
+1          refresh optive mega-3 (pf)
+1          celontin
+1          sodium bicarbonate 8.4% (nephron)
+1          norgestrel-ethinyl estradiol
+1          scopolamine hydrobromide
+1          ketamin
+1          biotene dry mouth
+1          macitentan (opsumit) 10mg tab
+1          butalbital-acet
+1          macitentan 10mg tablet (opsumit)
+1          nasogel
+1          ibrutinib(imbruvica)
+1          ruxolitinib (jakafi)
+1          one-a-day womens prenatal 1
+1          one a day womens prenatal dha
+1          levemir flextouch u-100 insulin
+1          mafenide acetate
+1          mylanta maximum strength
+1          thromb
+1          furo
+1          oxybutynin chloride xl
+1          irbesartan-hydrochlorothiazide
+1          darunavir-cobicistat 800-150
+1          lialda dr
+1          morphine/bupivacaine/clonidine intrathecal
+1          morphine intrathecal
+1          cytomegalovirus immune glob
+1          gabapen
+1          acyclovir suspension
+1          januvia 25mg
+1          amoxicillin-pot clavulanate
+1          *nf* tranexamic acid
+1          cerefolin nac
+1          isosorbide dini
+1          sulfacetamide sodium-sulfur 10%
+1          sulfacetamide sodium 10%
+1          mupiroci
+1          abreva
+1          mineral
+1          ayr saline nasal gel
+1          riboflavin
+1          focalin
+1          glycerin
+1          dakins
+1          iodosorb
+1          mometasone 0.1% cream
+1          velphoro (sucroferric oxyhydroxide)
+1          reyataz
+1          vytorin 10-80
+1          alteplase (external ventricular drain)
+1          inv - lenalidomide
+1          trisiba flex touch u-100
+1          bumet
+1          vancomycin-heparin lock
+1          rivastigmine 3mg capsules
+1          dextromethorphan-quinidine (nuedexta 20-10)
+1          brimonidine/timolol 0.2/0.5%
+1          multivitam
+1          metrocream
+1          metro
+1          mag-al plus
+1          humate-p
+1          vortioxetine (trintellix)
+1          lurasidone (latuda)
+1          sodium bicarbonate 4 %
+1          valsar
+1          lamotrigine xr (lamictal brand) *nf*
+1          nozin
+1          halcion 0.25 mg
+1          tums extra strength smoothies
+1          fergon
+1          ivosidenib
+1          benefiber sugar free (dextrin)
+1          caplyta
+1          toprol
+1          refresh
+1          maalox/
+1          deplin (algal oil)
+1          ritalin
+1          opana er (oxymorphone)
+1          novolog mix 70-30
+1          nucala
+1          travatan 0.004% ophth soln  (*nf*)
+1          nebivolol (bystolic)
+1          superior digestive enzyme
+1          interferon alfa-2b
+1          phytonad
+1          fenofib
+1          interferon beta-1a (albumin)
+1          axitinib 1mg tab (inlyta)
+1          jardiance(empagliflozin)
+1          prevacid solutab
+1          cevimeline (evoxac)
+1          pantopr
+1          dacomitinib
+1          ledipasvir-sofosbuvir
+1          firazyr
+1          enox
+1          lidocaine hcl 2%
+1          neupro (rotigotine) 6mg/24hr patch
+1          inv-krn-7000
+1          didanosine
+1          indigotindisulfonate sodium
+1          emtricitab-rilpivirine-tenofov
+1          exelon 9.5 mg/24 hour patch
+1          exelon  9.5mg/24hr
+1          ceftazidime 50mg/ml
+1          d30w
+1          estra
+1          diva
+1          reglan
+1          diovan-hct
+1          xal
+1          cranberry
+1          glucosamine sulf-chondroitin
+1          anucort-hc
+1          depakote dr
+1          tylenol arthritis
+1          azelastine nasal spray
+1          janumet  50mg/500mg
+1          fexofe
+1          *nf* deferasirox
+1          norco (hydrocodone/acetaminophen)
+1          esomeprazole magnesium (nexium)
+1          ephedrine sulfate (pressors)
+1          cleocin t
+1          ajovy syringe
+1          lactulo
+1          complera 200 mg-25 mg-300 mg tablet
+1          hepatitis b
+1          testosterone gel
+1          lidocaine 0.
+1          digifab
+1          insulin novolog
+1          gatifloxacin 0.5%
+1          iron, carbonyl
+1          poly
+1          tessalon perles
+1          biscolax
+1          klor-con m10
+1          lokelma (sodium zirconium cyclosilicate)
+1          empagliflozin-linagliptin (glyxambi)
+1          ritalin la
+1          preparation h (witch hazel)
+1          preparation h(pe, witch hazel)
+1          tylenol
+1          heparin lock flush
+1          victoza  6mg/ml (liraglutide)
+1          aminocaproic aci
+1          omega
+1          bicalutamide (casodex)
+1          vitamin cocktail
+1          pegfilgrastim-cbqv
+1          diphenhydramin 50mg/1ml 1ml vial
+1          desmopressin acetate 0,01% rhinal tube
+1          reclipsen
+1          mekinist
+1          chole
+1          gaba
+1          felodi
+1          lupron depot
+1          preparation h(pe,cb)
+1          pitavastatin
+1          tresiba 100 units/ml (insulin deglutec)
+1          tresiba flextouch pen
+1          clopidogrel 150mg
+1          menthol
+1          levalbuterol tartrate hfa
+1          narcan
+1          cytra-2
+1          predn
+1          potassium citrate er
+1          acetylcy
+1          clopidigrel 75mg po
+1          trilyte with flavor packets
+1          selegiline 6mg/24hr
+1          slow-mag 71.5mg
+1          magnesium gluconate
+1          leve100i
+1          selegiline (emsam)
+1          carisoprodol (bulk)
+1          vancomycin capsule
+1          urocit-k 10
+1          hydromorphone-bupiv (pf)-nacl
+1          enoxa
+1          albuterol inhalation soln 0.5%
+1          vilazodone (viibryd)
+1          ditropan xl
+1          naftifine
+1          sodium chloride 5 %
+1          viokace (pancrelipase)
+1          viokace (lipase protease-amylase)
+1          diazepam *nf*
+1          valium (diazepam)
+1          formoterol 20mcg
+1          budesonide 0.5mg
+1          d15w
+1          sanctura
+1          enoxaprin
+1          epip
+1          omega xl
+1          probiotic (s.boulardii)
+1          stoujeo solostar u-300 insulin
+1          selenium methionine
+1          (uptravi)selexipag
+1          selexipag (uptravi)
+1          axitinib (inlyta)
+1          augmentin
+1          adcirca (tadalafil)
+1          multiple vitamin-minerals
+1          lidocaine viscous
+1          laminaria 6 mm - extra large
+1          sular
+1          xeljanz (tofacitinib)
+1          rescula
+1          calcitonin (salmon)
+1          belsomra (suvorexant)
+1          ocean
+1          escital
+1          acetaminophen (rectal 650mg supp
+1          megace oral
+1          steglatro 5mg tab
+1          norepinephrine ((for dilution)
+1          motilium
+1          pant
+1          flomax
+1          nadol
+1          levalbuterol tartrate (xopenex)
+1          nortrel 1/35 (28)
+1          furosemide solution
+1          symbicort 160mcg/4.5mcg inhaler
+1          zileuton
+1          zyflo
+1          solu-medrol
+1          lumigan (bimatoprost) 0.01%
+1          amin
+1          icosapent ethyl (vascepa)
+1          invokamet xr
+1          cholestyramine light
+1          castor oil
+1          inv
+1          exenatide (byetta)
+1          rivas
+1          pangestyme ec
+1          varenicline(chantix)
+1          azo cranberry
+1          digestive probiotic
+1          prosource
+1          cran-max (cranberry extract)
+1          zinc oxide diaper cream
+1          magnesium sulfate (theraworx)
+1          zenpep (25,000-85,000-136,000)
+1          *nf* cromolyn sodium oral solution
+1          midodrione 20 mf
+1          incruse ellipta(umeclidinium)
+1          prev
+1          lotensin (benazepril)
+1          proprano
+1          prami
+1          clora
+1          unsulin detemir
+1          cortroyson
+1          eucer
+1          testosterone cream 2%
+1          clotrima
+1          symbicort 160/4.5 mcg
+1          calcium citrate + d
+1          morphine sulfate (pf)
+1          brexpiprazole 3 mg
+1          insu
+1          emtricitabine-tenofovir alafen
+1          biktarvy 50-200-25mg
+1          bengay greaseless
+1          clonazepam (nf)
+1          aquaphor
+1          methylnal
+1          biotene moisturizing mouth spray
+1          epzicom
+1          liraglutide (victoza)
+1          dexametha
+1          acetaminophen-caff
+1          eye wash
+1          umeclidinium-vilanterol (anoro)
+1          anoro ellipta 62.5-25
+1          anoro ellipta 62.5-25 mcg
+1          glycopyrr
+1          brimonidine tartrate (bulk)
+1          biofreeze (menthol 4%)
+1          zomig (zolmitriptan)
+1          linzessc145mcg
+1          zolmitriptan 5mg
+1          sumatriptan injection usp
+1          terbin
+1          famvir
+1          benadryl extra strength
+1          *nf* exemestane
+1          clenia
+1          topical cream metered-dose dev
+1          abacavir-lamivudine-zidovudine
+1          sevela
+1          milk thistle seed extract
+1          lef
+1          goly
+1          alka-seltzer gold
+1          eso
+1          advil pm
+1          azasite 1%
+1          combigan 0.2-0.5%
+1          metformi
+1          levora 0.15/30 (28)
+1          mirena
+1          ibup
+1          salex
+1          glul100i
+1          tagrisso
+1          iressa
+1          bariatric multivitamins
+1          hytrin
+1          mes
+1          armodafinil
+1          methylphenid
+1          complera
+1          viokace 20,880/78/300
+1          chantix starting month box
+1          chantix (varenicline)
+1          ammonium
+1          felodip
+1          gastrografin
+1          etodolac (lodine)
+1          calcium 500 + d (d3)
+1          phenobarbit
+1          polysaccharide iron complex
+1          novolog penfill
+1          novolog insulin pen
+1          genteal severe
+1          elidel
+1          creatine
+1          anastrazole
+1          boudreauxs butt paste
+1          lenvima
+1          lioresal
+1          captop
+1          rapamune
+1          trimethoprim-sulfamethoxazole
+1          zydis
+1          hecoria
+1          edoxaban (savaysa) 60mg tab
+1          biktarvy 50mg-200mg-25mg
+1          hydromorphone (d 2mg/1ml 1ml inj
+1          lumigan 0.01% opth sol
+1          efudex
+1          acetylcystei
+1          erythr
+1          heparin flush (1000 units
+1          triple paste
+1          glyburid
+1          chlorthali
+1          amphetamine
+1          cyclosporin
+1          nph insulin human recomb
+1          acyclovir 400 mg tab
+1          trametinib(mekinist) 2mg
+1          trametinib (mekinist)
+1          dabrafenib (tafinlar)
+1          oxand
+1          oxan
+1          ismo
+1          sele
+1          quinacrine (bulk)
+1          abiraterone *nf* (zytiga)
+1          florastor (saccharomyces boulardii)
+1          abilify maintena
+1          precose
+1          androgel 1.25 g/1 %
+1          val
+1          claritin-d 12 hour
+1          epoetin
+1          theop
+1          viramune
+1          tretinoin 0.1% gel
+1          benadryl
+1          calcitoni
+1          imipramine hcl
+1          ilevro (nepafenac) 0.3%
+1          durezol  0.05%  (difluprednate)
+1          ofloxacin  0.3%
+1          ilevro (nepafenac)  0.3%
+1          domperidone (motilium)
+1          protein c concentrate human
+1          mupiro
+1          glucosamine *nf* (glucosamine sulfate)
+1          maxalt-mlt
+1          dexamethasone susp 0.1%
+1          ciprofloxacin 0.3% soln
+1          delstrigo
+1          apri (desogestrel-ethinyl estradiol
+1          levobunolol
+1          apremilast (otezla)
+1          saxagliptin
+1          doxil (liposomal doxorubicin)
+1          rev
+1          reva
+1          nora-be
+1          bis
+1          glucosamine-chondroitin complx
+1          brimonidine 0.2% drops
+1          amphotericin b (bulk)
+1          flon
+1          econ
+1          dorzolamide-timolol 22.3%-6.8%
+1          travatan z 0.004%
+1          combigan 0.2%/0.5%
+1          tums
+1          zetia
+1          potassium chloride 10meq capsules
+1          *nf* fluticasone propionate
+1          *nf* bimatoprost  0.03%  ophth
+1          neurontin (gabapentin)
+1          soliqua 100/33
+1          synjardy xr
+1          sevelamer carbonate (renvela)
+1          neomy
+1          dairy relief
+1          acetic
+1          edoxaban (savaysa)
+1          aranesp sureclick -polysorbate
+1          fenofi
+1          gla
+1          vancomycin 125mg cap
+1          mucin
+1          lactic
+1          chromium
+1          robit
+1          excedrin pm
+1          cefpodoxim
+1          paromomycin
+1          levemir 100 unit/ml
+1          emend
+1          adempas (riociguat)
+1          sitagliptin-metformin (janumet xr)
+1          butrans (buprenorphine) patch
+1          jardiance 10mg
+1          nexium iv
+1          lidocaine 2%/epinephrine p.f.
+1          serevent diskus
+1          thera tears
+1          jakafi (ruxolitinib)
+1          ruxolitinib 15 mg oral *nf*
+1          ruxolitinib  *nf* oral
+1          sofosbuvir-velpatasvir
+1          formalin 1%
+1          breztri aerosphere
+1          citracal maximum +d3
+1          hydroxychloroq
+1          fioricet
+1          vancomycin 14mg/ml ophth soln
+1          valsarta
+1          epinephrine auto injector
+1          polio vaccine
+1          humira pen 40mg/0.8ml
+1          melatin
+1          methadon
+1          miconazole nitrate
+1          stalevo 200-150-37.5
+1          carbidopa-levodopa-entacapone
+1          forteo (teriparatide)
+1          forteo 600mcg/2.4ml
+1          mometasone 220 mcg inh (asmanex)
+1          eculizumab *nf*
+1          tracleer (bosentan)
+1          uptravi
+1          pirfenidone (esbriet)
+1          pirfenidone (esbriet) 801 mg
+1          sodium bicarbon
+1          oselt
+1          olanzapine pamoate
+1          spectazole (econazole)
+1          spectazole
+1          pulmicort flexhaler (budesonide)
+1          artifi
+1          ketorolac (pf)
+1          heparin (porcine)
+1          acetylcysteine 10%
+1          morphine sulfa
+1          *nf* dornase alfa inh. soln.
+1          idhifa (enasidenib)
+1          metha
+1          polysaccharide iron
+1          lamotrig
+1          slow iron
+1          esmolol 2000mg/100ml 100ml bag
+1          novolog mix 70/30 pen
+1          ipratropium-al
+1          kionex
+1          depakote er
+1          carmol 20
+1          pylera
+1          butalbital-aspirin-caffeine
+1          *nf* estradiol transdermal patch
+1          gluca
+1          gala
+1          guaifenesin (sugar free)
+1          metrogel
+1          lactobacillus acidophilus-pectin
+1          bisopr
+1          bisac
+1          insulin tuojeo
+1          insulin toujeo
+1          neosporin (neo-bac-polym)
+1          tessal
+1          desenex
+1          oxymeta
+1          insulin syringe u-100
+1          parox
+1          paroxet
+1          phosp
+1          apri-28
+1          apri- 0.15/0.03mg-28
+1          apri 0.15mg/0.03mg tab
+1          desloratadine
+1          symbicort 160-4.5mcg
+1          peginterferon alf
+1          dietary supplement
+1          parenteral nutrition (tpn)
+1          emtricitabine-tenofovir
+1          ecotrin
+1          throm
+1          metamucil
+1          loxitane
+1          mevacor
+1          clidinium-chlordiazepoxide
+1          vasotec
+1          canasa
+1          candesartan (atacand) 32mg tab
+1          fluorouracil *continuous infusion *
+1          alendronate
+1          genteal eye drops
+1          soothe hydration
+1          fluticasone (flovent)
+1          genteal mod-severe gel drops
+1          astepro 0.15% nasal spray
+1          losartan-hydrochlorothiazide
+1          sofosbuvir-velpatasvir 400 mg-100 mg tablet
+1          dilantin ex 100mg
+1          metoprolol tartrate suspension
+1          vigamox 0.5% ophth (*nf* )
+1          mecl
+1          nedocromil 2%
+1          inv-asp1235
+1          inv-prednisolone ophthalmic 1%
+1          inv-prednisolone acetate 1% ophth
+1          kytril
+1          glim
+1          starlix
+1          baby anti monkey butt
+1          zinc oxide diaper rash cream
+1          miglitol
+1          pancrelipase 16,000
+1          pneumococca
+1          influen
+1          osimertinib + gefitinib
+1          inv-osimertinib
+1          inv-gefitinib
+1          mira
+1          folbalin plus
+1          vosevi
+1          brimonidine tartrate 0.2%
+1          brinzolamide 1%
+1          l-threonine
+1          tasigna (nilotinib)
+1          pyrid
+1          nature-throid
+1          sarna anti-itch
+1          ascorbic acid (vitamin c)
+1          vitamin b-50 complex
+1          stiolto respimat
+1          cepacol sore throat (benz-men)
+1          desitin multi-purpose
+1          soriatane
+1          junel fe 1/20 (28)
+1          combigan(brimonidine-timolol)
+1          fluorescein
+1          simbrinza (brinzolamide-brimondine)
+1          cortroysn
+1          lidocaine 4% mpf
+1          cenestin
+1          bacl
+1          promiseb cream
+1          sharobel
+1          thera
+1          oxacillin
+1          methoxsalen rapid
+1          oxsoralen ultra
+1          *nf* beclomethasone dipro 80 mcg inh
+1          gastroview
+1          vitamin d (25 mcg)
+1          pioglitazone-glimepiride
+1          nitrolingual pumpspray
+1          temozolomide 100mg
+1          qnasl
+1          jolessa (levonorgestrel-ethinyl estradiol
+1          beclomethasone dipro. aq (nasal)
+1          introvale
+1          levonorgestrel-ethinyl estrad
+1          qnasl beclomethasone dipropionate
+1          ipratropium-albuterol
+1          lithobid
+1          detrol la
+1          sod
+1          calcium carb
+1          bosentan(tracleer)
+1          univasc
+1          diltiazem-lidocaine 0.2%-1% ointment
+1          toujeo max u-300 solostar (glargine)
+1          cortroysin
+1          abaloparatide
+1          dextromethorphan-quinidine
+1          robitussin-dm
+1          qvar redihaler beclomethasone
+1          tucks
+1          ondansetro
+1          novolog mix 70-30 u-100 insuln
+1          moexipril-hydrochlorothiazide
+1          carbozantinib) cabometyx
+1          benadryl itch stopping cream
+1          *nf* pegfilgrastim
+1          zegerid 40
+1          hydromorphone pca (dilaudid)
+1          velpatasvir/sofosbuvir
+1          robitussin cough-chest cong dm
+1          pregaba
+1          janumet xr (sitagliptin/metformin)
+1          pancreaze (lipase-protease-amylase)
+1          lipase-protease-amylase (pancreaze)
+1          tigan
+1          ondanse
+1          onda
+1          autologous 20% diluted serum tears
+1          autologous 20% serum tears
+1          kapidex(dexlansoprazole)
+1          kapidex(dexlandoprazole)
+1          dextromethorphan-
+1          testosterone 2 mg
+1          inderal la
+1          opana er
+1          namenda xr
+1          letairis
+1          ketotifen fumarate 0.025%
+1          systane( polyethylene glycol 400 0.4% and propylene glycol 0.3% )
+1          isoproterenol hcl
+1          genvoya (150-150-200-10)
+1          dutasteride 0.5 mg
+1          tadalafil 20mg
+1          ninlaro
+1          ciclesonide
+1          irb
+1          pilocarpine 6%
+1          ver
+1          insulin (regular
+1          prevident 5000 plus
+1          calcium
+1          exenatide(byetta)
+1          dilt-xr
+1          probiotic formula
+1          metformin (riomet)
+1          culturelle probiotics
+1          systane ultra eye drops
+1          fentanyl citrate/bupivacaine hcl
+1          norethindrone
+1          humalog junior kwikpen u-100
+1          irbesartan 300mg
+1          vicon forte
+1          vica forte
+1          prednis
+1          nimodipine 30mg
+1          clarinex (desloratidine)
+1          rabeprazole 20mg
+1          dalteparin (porcine)
+1          ergocalc
+1          zyrtec-d
+1          mag
+1          aimovig autoinjector
+1          ocella
+1          epinephrine base
+1          incruse ellipta 62.5mcg
+1          remeron soltab
+1          tacrolimus (prograf brand) suspension
+1          roxicet
+1          centrum silver ultra mens
+1          vit eyes
+1          capto
+1          quetiap
+1          risperdal consta
+1          breo ellipta 200-25 mcg/dose
+1          vicks vapor inhaler
+1          thermacare neck/shoulder/arm
+1          white petrolatum-mineral oil
+1          betaseron
+1          sof/ledipasvir fdc tablets 400mg/90mg
+1          pang
+1          povidone-iodine
+1          etonogestrel (nexplanon)
+1          ranitidine hcl (bulk)
+1          calcium citrate-vitamin d3
+1          alectinib (alecensa)
+1          inv-crizotinib
+1          maal
+1          levalbuterol
+1          dexamet
+1          saline mist
+1          syringe (0.9% sodium chloride
+1          halls cough drops
+1          fluorometholone
+1          budeson
+1          lidocaine hcl in 0.9 % nacl
+1          crixivan
+1          calcium 600 + d(3)
+1          colazal
+1          cod liver oil
+1          altoprev
+1          methado
+1          meth
+1          abacavir
+1          nf-tacrolimus
+1          aspirin-acetaminophen-caffeine
+1          gammagard liquid (white bag)
+1          iron
+1          potassium chloride liquid
+1          votrient (pazopanib)
+1          olanzapi
+1          tetracaine hcl
+1          esomep
+1          epineph
+1          validol
+1          lidocaine-epinephrine
+1          alteplas
+1          alphagan p (brimonidine)
+1          symbicortbudesonide-formoterol
+1          janumet 50-500mg
+1          bacillus coagulans
+1          dulera (100mcg/5mcg)
+1          meloxicam 15mg
+1          privigen
+1          gavilyte-g
+1          glyset
+1          clofazimine (bulk)
+1          linzess 145mcg
+1          *nf*benefiber
+1          testosterone propionate
+1          cinnamon
+1          mycophenol
+1          seroquel
+1          bismuth subsalicy
+1          lidex
+1          calcitri
+1          pfizer-biontech mrna covid-19 vaccine
+1          glucarpidase
+1          humu
+1          humul
+1          azopt 1% ophth  (*nf* )
+1          combigan (brimonidine/timolol)
+1          ursodiol oral suspension
+1          pangestym
+1          uceris
+1          parcop
+1          amlodipine-benazepril
+1          nifedipine (bulk)
+1          xiidra
+1          retaine mgd (pf)
+1          ocuvite preservision
+1          well
+1          mometasone nasal spray  (*nf*)
+1          voltaren 1% gel
+1          balanced salt opth. soln
+1          testosteron
+1          lotemax (loteprednol etabonate)
+1          junel 1.5/30 (21)
+1          rebif titration pack
+1          loestrin 1/20 (21)
+1          creon 36 (lipase 36k, prot 114k, amyl 180k)
+1          lifitegrast ophthalmic  solution
+1          lidocaine 1%/epinephrine 1:200,000
+1          liragl
+1          tresiba u-100 30 units
+1          tresiba 30 units
+1          motegrity (prucalopride)
+1          fiber
+1          modafini
+1          modafi
+1          voltaren gel 1% (diclofenac)
+1          benzona
+1          insulin u-500 kwikpen
+1          insu500i
+1          arformoterol 15 mcg/2 ml
+1          imbruvica (ibrutinib)
+1          hydrogen peroxide
+1          lacosamide *nf*
+1          prednisone 20mg
+1          menest(esterified estrogens)
+1          vancomycin ora
+1          lamiv
+1          urocit-k 5
+1          pilocarpine hcl (bulk)
+1          hypertonic nasal wash
+1          bumetanid
+1          flonase allergy relief
+1          *n f  pantoprazole
+1          cholecalciferol (vitamin d3) adult gummies
+1          fish oil adult gummies
+1          cyanocobalamin (vitamin b-12) 1000mcg tab
+1          power c  vitamin c (ascorbic acid)
+1          flintstones complete chew tabs
+1          (celebrate) calcium citrate + d
+1          biotin 5000 mcg quick dissolve tabs
+1          sucral
+1          varicella virus
+1          cyclosporine 1% drops
+1          medroxyprogesterone 1% drops
+1          systane nighttime (white petrolatum-mineral oil)
+1          systane gel*nf* (artificial tears(hypromellose
+1          triamterene-hydrochlorothiazid
+1          pramlintide(symlin)
+1          idarucizumab
+1          hydrocortisone-iodoquinl-aloe2
+1          ketotifen
+1          bupivacaine (pf)
+1          nitromist
+1          enzalutamide (xtandi)
+1          solifenacin (vesicare)
+1          inv-lcz696
+1          sacubitril/valsartan(lcz696)
+1          inv-enalapril
+1          sacubitril/valsartan
+1          terbinafine 1% spray
+1          cysteamine
+1          cordran tape
+1          konsyl
+1          gelfoam sponge
+1          glumetza
+1          zaditor (ketotifen)
+1          abemaciclib
+1          *nf* testosterone gel 1% (25 mg)
+1          hydroco
+1          ambrisentan (letairis)
+1          ofev 100mg
+1          flarex (fluorometholone)
+1          fluorometholone acetate
+1          lactobacillus acidophilus
+1          tafluprost (pf)
+1          cosopt (pf)
+1          prednisolone acetate (pf)
+1          tafluprost ophthalmic solution
+1          *nf* omeprazole
+1          oxytrol
+1          tra
+1          gemtesa
+1          nubeqa
+1          xarelt
+1          pazopanib (votrient)
+1          aspirin childrens
+1          olanz
+1          entresto
+1          endur-acin
+1          tiotropium-olodaterol
+1          incruse (umeclidinium) ellipta
+1          albuterol inh
+1          vitamin k 1
+1          vitamin d2
+1          phytonadione (vitamin k1)
+1          calcitrate 500 iu
+1          vitamin k1
+1          vitamin k-1 (100mcg)
+1          gilteritinib *nf*
+1          aspirin low dose
+1          carafate (sucralfate)
+1          sodium bicarbonate (bulk)
+1          ampicillin-sulbactam sodium
+1          azilect(rasagiline)
+1          azilect (rasagiline) 0.5mg tab
+1          famc
+1          methadone (concentrated oral solution)
+1          creon dr 24
+1          relpax (eletriptan)
+1          aloxi
+1          phenyleprhine ophth soln 10%
+1          inv-fluzone high dose trival/fluzone quad vaccine
+1          chlordiazepoxide-clidinium
+1          mu
+1          genteal ophth gel 0.3%
+1          simply one multivitamin with minerals
+1          btl
+1          abacavir-dolutegravir-lamivud (triumeq)
+1          salonpas
+1          lidocaine 1%/
+1          magnesium hydroxide
+1          yupelri
+1          permeth
+1          lunesta (eszopiclone)
+1          atom
+1          bupivacaine 0.25%-epi 1:200,000 p.f.
+1          odomzo
+1          orencia
+1          oxcarbazepine oral suspension
+1          erythrom
+1          caplacizumab-yhdp
+1          fostamatinib 150 mg tablets
+1          inv-fostamatinib
+1          anas
+1          nystop
+1          modafinil  (provigil)
+1          novolog pen
+1          diaz
+1          rivastigmine (exelon)
+1          imip
+1          mylanta
+1          systane (propylene glycol)
+1          repatha sureclick
+1          dil
+1          glipi
+1          aspirin desensitizati
+1          metho
+1          milnacipran (savella)
+1          nicotrol
+1          myoflex
+1          xopenex inhaler
+1          rifamp
+1          trospium 20mg tablet
+1          lithium carbona
+1          citrate
+1          *nf*
+1          les
+1          aspercreme with aloe
+1          lamo
+1          phenobarb
+1          vaseline white petroleum
+1          hepar
+1          maalo
+1          donna
+1          novolog flexpen 100 unit/ml
+1          *nf* abatacept
+1          clindamycin suspension
+1          lumigan 0.01% eye drops
+1          optive
+1          donepezil 5 mg
+1          *nf* irbesartan
+1          lidocaine 1%/epinephrine
+1          np thyroid
+1          intelence (etavirine
+1          victoza (liraglutide)
+1          nyamyc
+1          petroleum jelly, white
+1          ziprasidone hcl
+1          b-12 organic spray
+1          floradix iron + herbs
+1          predni
+1          artificial tears (pf)- systane eye gel
+1          artificial tears (pf)- systne eye gel
+1          flintstones multivitamin
+1          tacrolimus (dr.reddy's) *nf*
+1          hep
+1          asmanex twisthaler (mometasone)
+1          lidocaine-epinephrine (pf)
+1          advair hfa 115/21 mcg/actuation
+1          dexmedeto 0.4mg/100ml 100ml vial
+1          multivitamin with minerals
+1          *nf* budesonide neb solution
+1          travatan z (travoprost)
+1          vitamin c
+1          tessa
+1          prempro (conj estro-medroxyprog)
+1          codeine-guaifenesin
+1          desvenlafaxine er (pristiq)
+1          florastor(saccharomyces boulardii)
+1          acidophilus-b.bifidum-b.longum
+1          aluminu
+1          calcium 600 + d
+1          combigan drops
+1          critic-aid clear
+1          metoprolol tartra 12.5mg halftab
+1          lumigan(bimatoprost)
+1          symbicort 160 mcg-4.5 mcg/actuation
+1          ipratropium-albuterol n 1neb neb
+1          nicotine (polacrilex)
+1          linzess 145 mcg
+1          toviaz
+1          levemir flexpen 100 unit/ml
+1          liraglutide (weight loss)
+1          l-citrulline
+1          l-arginine(alpha-ketoglutarat)
+1          citrulline
+1          levemir (insulin detemir)
+1          ipra
+1          potassium chloride 20meq
+1          oxymet
+1          ketamine 250 mg troche
+1          lata
+1          bevacizumab-awwb (mvasi)
+1          oseltam
+1          ferocon
+1          anoro ellipta (62.5mcg/25mcg)
+1          brexucabtagene autoleucel
+1          silvasorb
+1          netarsudil-latanoprost
+1          creon dr
+1          probiotic colon care
+1          lumigan 0.01% ophth  (*nf*)
+1          lumigan 0.01% ophth solution
+1          nicoti
+1          cyclosporine 0.05%
+1          lotemax 0.5 % eye drops,suspension
+1          akwa
+1          autodrop
+1          alternagel-benadryl-lidocaine visc.
+1          olsalazine
+1          hydrocortisone-pramoxine
+1          lidocaine hcl - hyrocortisone acetate
+1          ther
+1          symbicort (budesonide-formeterl)
+1          lactobacillus acidoph & bifid
+1          systane nighttime
+1          migraine formula
+1          novolog/fiasp u-100 insulin aspart
+1          mannitol 20 100g/500ml 500ml bag
+1          ~rituximab
+1          saw palmmetto
+1          saw palmetto extract
+1          bromsite
+1          simethicone 80mg tab
+1          ipratropium bromide 0.06%
+1          ethanol (ethyl alcohol)
+1          atripla (600-200-300)
+1          anoro ellipta 62.5/25
+1          glutose 15
+1          symbicort 160 mcg-4.5 mcg/
+1          symbicort (budesonide 160mcg-formoterol 4.5mcg)
+1          alka-seltzer 324 mg
+1          alrex 0.2%
+1          atrovent nasal spray
+1          pepogest
+1          lastacaft
+1          flovent
+1          beano
+1          afinitor
+1          vitamin a palmitate
+1          sulfasalaz
+1          nexium 22.3mg dr capsules
+1          fluticasone propionate
+1          mouth
+1          tenofovir disoproxil
+1          latanoprostene (vyzulta)
+1          zeasorb (miconazole)
+1          symbicort *nf* 160/4.5
+1          trelegy ellipta (fluticasone, umeclidinium, vilanterol)
+1          citracal chew
+1          gas-x extra strength
+1          flurazepam
+1          sulfameth/trimethopr
+1          octreotide
+1          vagifem
+1          butrans (buprenorphine)
+1          brimonidine-timolol 0.2-0.5%
+1          xalatan 0.005%
+1          levetiracetam xr
+1          byetta (250mcg/ml)
+1          lovaza 1gm
+1          5-htp
+1          mycophenolat
+1          mycopheno
+1          aclidinium bromide
+1          prenatal gummy
+1          insulin - sliding scale
+1          amox
+1          dipy
+1          align (bifidobacterium)
+1          ventolin
+1          azilect 0.5 mg tab
+1          simbrinza 1%-0.2%
+1          gentamicin sulfate ophth. ointment
+1          gentak
+1          ketamine/gabapentin/amitriptyline
+1          acular ls 0.4%
+1          desogestrel-ethinyl estradiol 0.15/0.03mg
+1          desogen
+1          levothyrox
+1          warfarin (coumadin) brand name
+1          jardiance (empagliflozin)
+1          mupirocin calcium
+1          aldactazide
+1          zepatier
+1          polatuzumab vedotin-piiq
+1          abt-199
+1          sitagliptin 50mg tab (januvia)
+1          procrit
+1          interferon alfa 2a
+1          depakote brand name
+1          lantus solo star pen
+1          lactose fast acting relief
+1          symbicort  160/4.5 mcg
+1          lactase (lactaid)
+1          sodium chloride 3%
+1          normal sal
+1          diclofenac sodium 1%
+1          methylin
+1          phyton
+1          antivert
+1          phillips milk of magnesia
+1          zelboraf
+1          lidocaine 1% p
+1          diovan
+1          epoet
+1          axid ar
+1          axid
+1          kaopectate (docusate calcium)
+1          sportscreme
+1          synthroid 75 mcg tab
+1          sodiu
+1          guaifenes
+1          *nf* carbidopa-levodopa (25-100)
+1          botox (onabotulinumtoxina)
+1          dyazide
+1          rolaids
+1          zzvoxtalisibzz
+1          zzpimasertibzz
+1          zzvoxtalisib
+1          estradiol 0.5mg
+1          victoza 1.8mg (liraglutide)
+1          jardiance (empaglifozin)
+1          fenoglide (fenofibrate)
+1          mirabegron (myrbetriq)
+1          asmanex twisthaler
+1          asmanex (mometasone) twisthaler
+1          natural fiber laxative
+1          auryxia
+1          minastrin 24 fe
+1          rilutek
+1          immune globulin (human) (igg)
+1          equalactin
+1          calcium polycarbophil
+1          lidocaine 0.5% mpf
+1          ziextenzo
+1          mephyton
+1          prucalopride (motegrity)
+1          sucralf
+1          alaway (ketotifen fumarate)
+1          irbes
+1          prozac *brand name*
+1          prozac brand (fluoxetine)
+1          mepe
+1          creon 36,000-114,000-180,000
+1          creon 36,000-114,000-180,000 units
+1          *nf* tacrolimus 0.03% ointment
+1          *nf* tacrolimus 0.1% ointment
+1          hydroxyp
+1          calcitrate-vitamin d
+1          oxbryta 500 mg
+1          rifaximin oral suspension
+1          influenza a (h1n1) vac 09 (pf)
+1          uceris (budesonide) er
+1          evista (raloxifene)
+1          contrave
+1          simeprevir
+1          simeprevir 150mg tab
+1          umeclidinium 62.5mcg
+1          incruse ellipta 62.5 mcg inh
+1          ondansetr
+1          toujeo (glargine insulin) 300 units/ml
+1          lisdexamfetamine
+1          prandin
+1          umeclidinium ellipta
+1          dehydrated alcohol
+1          hepari 25000unit/250ml 250ml bag
+1          invega trinza
+1          labe
+1          evoxac (cevimeline)
+1          fexofen
+1          nitroglycerin oin
+1          magnesium glycinate *nf* 100 mg
+1          cetirizine-pseudoephedrine
+1          yaz 28    3-20mcg
+1          epinephrine kit
+1          alora
+1          xylimelts
+1          tadalafil   20mg
+1          lomotil
+1          vancomycin 25mg/ml ear drops
+1          atacand hct
+1          os-cal 500+d
+1          unifiber
+1          inv-mp0420
+1          victoz
+1          carbidopa-levodopa (rytary)
+1          dabrafenib 75mg
+1          trametinib 2mg
+1          methylene blue (antidote)
+1          nisoldipine
+1          maalox max quick dissolve
+1          novolog mix 70-30 u-100 insulin
+1          domperidone 10mg
+1          prochlorperazine maleate
+1          folbic
+1          cyanide antidote
+1          vitamin
+1          capecitabine 500mg tablet
+1          dutasteride (avodart)
+1          abiraterone (zytiga)
+1          methotr
+1          influenza
+1          furosemi
+1          duoderm hydroactive
+1          sorbitol-saccharin
+1          tafinlar (dabrafenib)
+1          trametinib *nf*
+1          chromium picolinate
+1          lanso
+1          genteal tears
+1          rosuvastati
+1          ms contin
+1          artificial tea
+1          novolin 70/30 flexpen 100 units/ml
+1          teargen
+1          prunelax
+1          baclofen 4000mcg/ml
+1          baclofen 25mcg/hr
+1          dostinex
+1          incruse ellipta (umeclidinium)
+1          breo ellipta (fluticasone-vilanterol)
+1          desmopressin
+1          budesonide/formoterol (symbicort)
+1          granisetron
+1          clotrimazole-betamethasone
+1          polyethylene glycol 3350
+1          oxyb
+1          glucotrol xl
+1          dipivefrin 0.1%
+1          niferex
+1          bumeta
+1          bumex
+1          beclomethasone
+1          tadalafil 4mg
+1          naratriptan
+1          nucynta (tapentadol) 75mg tab
+1          zenpep (20k, 68k, 109k) cap
+1          tapentadol (nucynta)
+1          hydrocortisone cream
+1          fiasp flextouch 100u/ml (3ml)
+1          chantix 1mg
+1          escita
+1          titralac
+1          chromium chloride
+1          domperidone maleate
+1          tes

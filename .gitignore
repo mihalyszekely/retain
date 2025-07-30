@@ -5,6 +5,7 @@
 *.pids
 *.seqs
 *.types
+*.png
 
 # Ignore specific folders
 figs/
