@@ -4,6 +4,11 @@ Script to analyze prescriptions for Type 2 Diabetes cohort.
 Identifies the most common medications prescribed to T2D patients.
 """
 
+"""
+usage:
+python t2dm_prescriptions_analysis.py diagnoses_icd_MIMIC-IV.csv prescriptions.csv
+"""
+
 import pandas as pd
 import sys
 from pathlib import Path
